@@ -1,0 +1,12 @@
+a,a,b,c,d,a
+a,a,b,c,d,b
+a,a,b,c,d,c
+a,a,b,c,d,d
+a,a,b,c,d,d
+a,a,b,c,d,a
+a,a,b,c,d,c
+a,a,b,c,d,d
+a,a,b,c,d,b
+a,a,b,c,d,a
+a,a,b,c,d,d
+a,a,b,c,d,s

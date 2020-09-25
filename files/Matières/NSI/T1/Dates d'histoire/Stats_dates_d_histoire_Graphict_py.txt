@@ -1,0 +1,2890 @@
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:8:48:57
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:8:53:1
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:22:43
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:24:3
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:26:34
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:32:27
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:33:17
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:42:21
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:43:47
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:0
+button1:0
+button2:28
+button3:30
+button4:1
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: de 1337-1453 J.-C. ?
+la Guerre de 100 ans, la Chute de la monarchie et suspension de Louis XVI, l'Exécution de Louis XVI ?
+ganswer:0
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:17
+button2:1
+button3:0
+button4:18
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: la Découverte de L'Amérique ?
+en 1954 J.-C., en 1492 J.-C., de 1337-1453 J.-C. ?
+ganswer:0
+________________________________ end Round 2 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:9:46:17
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:0
+button1:23
+button2:7
+button3:0
+button4:5
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: de 1337-1453 J.-C. ?
+l'Adoption de la déclaration des droits de l'homme et du citoyen, le Sacre de Napoléon, la Guerre de 100 ans ?
+ganswer:0
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:1
+button2:16
+button3:9
+button4:24
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la Découverte de L'Amérique ?
+en 1492 J.-C., le 1er Octobre 1949 J.-C., en 1815 J.-C. ?
+ganswer:0
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:10
+button2:2
+button3:14
+button4:23
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: l'Imprimerie en Europe ?
+de 1861-1865 J.-C., le 29 mai 1453 J.-C., le 24 octobre 1929 J.-C. ?
+ganswer:0
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:0
+button1:17
+button2:3
+button3:16
+button4:22
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: en 1682 J.-C. ?
+Guerre d’Algérie, Louis XIV à Versailles, La République populaire de Chine ?
+ganswer:0
+________________________________ end Round 4 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:10:10:15
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:10:11:26
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:10:14:10
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:10:41:39
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:15
+button2:18
+button3:0
+button4:2
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Guerre de 100 ans ?
+de 1941-1945 J.-C., en 1965 J.-C., de 1337-1453 J.-C. ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:10:43:37
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:16
+button2:5
+button3:0
+button4:22
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Guerre de 100 ans ?
+le 1er Octobre 1949 J.-C., le 2 novembre 1789 - 9 novembre 1799, de 1337-1453 J.-C. ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:1:20
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:1:27
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:0
+button1:28
+button2:14
+button3:0
+button4:18
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: de 1337-1453 J.-C. ?
+la Chute de la monarchie et suspension de Louis XVI, le Jeudi noir, la Guerre de 100 ans ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:1:46
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:2:9
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:2:18
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:2:24
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:2:33
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:2:44
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:2:59
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:13
+button2:0
+button3:26
+button4:27
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: la Guerre de 100 ans ?
+au Milieu XIXe J.-C., de 1337-1453 J.-C., le 14 septembre 1791 ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:3:9
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:3:17
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:3:33
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:3:38
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:3:54
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:17
+button2:30
+button3:0
+button4:20
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Guerre de 100 ans ?
+en 1954 J.-C., le 21 janvier 1793, de 1337-1453 J.-C. ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:4:21
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:12
+button2:0
+button3:13
+button4:33
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: la Guerre de 100 ans ?
+en 1917 J.-C., de 1337-1453 J.-C., au Milieu XIXe J.-C. ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:7:34
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:25:42
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:7
+button2:9
+button3:0
+button4:33
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Guerre de 100 ans ?
+le 2 Décembre 1804 J.-C., en 1815 J.-C., de 1337-1453 J.-C. ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:13
+button2:0
+button3:1
+button4:5
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Découverte de L'Amérique ?
+au Milieu XIXe J.-C., de 1337-1453 J.-C., en 1492 J.-C. ?
+ganswer:3
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:17
+button2:2
+button3:18
+button4:16
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: l'Imprimerie en Europe ?
+en 1954 J.-C., le 29 mai 1453 J.-C., en 1965 J.-C. ?
+ganswer:2
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:0
+button1:11
+button2:3
+button3:4
+button4:15
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: en 1682 J.-C. ?
+la Chute du mur de Berlin, Louis XIV à Versailles, la Révolution Américaine ?
+ganswer:2
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:1
+button1:4
+button2:3
+button3:32
+button4:31
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la Révolution Américaine ?
+de 1775-1782 J.-C., en 1682 J.-C., le 1er prairial an III ?
+ganswer:1
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:0
+button1:5
+button2:13
+button3:0
+button4:21
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: le 2 novembre 1789 - 9 novembre 1799 ?
+la Révolution française, la Révolution Industrielle, la Guerre de 100 ans ?
+ganswer:1
+________________________________ end Round 6 Stats ________________________________________
+________________________________ Round 7 Stats ________________________________________
+DATEOREVENT:0
+button1:27
+button2:6
+button3:0
+button4:10
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: le 14 Juillet 1789 J.-C. ?
+la prise des Tuileries avec l'aide des fédérés marseillais, la Prise de la bastille, la Guerre de 100 ans ?
+ganswer:2
+________________________________ end Round 7 Stats ________________________________________
+________________________________ Round 8 Stats ________________________________________
+DATEOREVENT:0
+button1:33
+button2:9
+button3:7
+button4:2
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 2 Décembre 1804 J.-C. ?
+le début du Directoire, le Congrès de Vienne, le Sacre de Napoléon ?
+ganswer:3
+________________________________ end Round 8 Stats ________________________________________
+________________________________ Round 9 Stats ________________________________________
+DATEOREVENT:1
+button1:10
+button2:8
+button3:25
+button4:15
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: l'Indépendance En Amérique du Sud ?
+de 1861-1865 J.-C., de 1811-1820 J.-C., le 17 juillet 1791 ?
+ganswer:2
+________________________________ end Round 9 Stats ________________________________________
+________________________________ Round 10 Stats ________________________________________
+DATEOREVENT:1
+button1:17
+button2:3
+button3:9
+button4:5
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: le Congrès de Vienne ?
+en 1954 J.-C., en 1682 J.-C., en 1815 J.-C. ?
+ganswer:3
+________________________________ end Round 10 Stats ________________________________________
+________________________________ Round 11 Stats ________________________________________
+DATEOREVENT:1
+button1:15
+button2:10
+button3:14
+button4:17
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: la Guerre de Sécession ?
+de 1941-1945 J.-C., de 1861-1865 J.-C., le 24 octobre 1929 J.-C. ?
+ganswer:2
+________________________________ end Round 11 Stats ________________________________________
+________________________________ Round 12 Stats ________________________________________
+DATEOREVENT:1
+button1:11
+button2:30
+button3:17
+button4:2
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la Chute du mur de Berlin ?
+en 1989 J.-C., le 21 janvier 1793, en 1954 J.-C. ?
+ganswer:1
+________________________________ end Round 12 Stats ________________________________________
+________________________________ Round 13 Stats ________________________________________
+DATEOREVENT:0
+button1:33
+button2:17
+button3:12
+button4:27
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: en 1917 J.-C. ?
+le début du Directoire, Guerre d’Algérie, la Révolution Russe ?
+ganswer:3
+________________________________ end Round 13 Stats ________________________________________
+________________________________ Round 14 Stats ________________________________________
+DATEOREVENT:0
+button1:13
+button2:32
+button3:14
+button4:18
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: au Milieu XIXe J.-C. ?
+la Révolution Industrielle, l'Insurrection populaire réclamant le pain et le retour à la Constitution de l'an I (Insurrection violement réprimée dans le sang), le Jeudi noir ?
+ganswer:1
+________________________________ end Round 14 Stats ________________________________________
+________________________________ Round 15 Stats ________________________________________
+DATEOREVENT:0
+button1:14
+button2:0
+button3:29
+button4:7
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: le 24 octobre 1929 J.-C. ?
+le Jeudi noir, la Guerre de 100 ans, la Convention nationale abolit la royauté et fonde la Ire République au lendemain de la bataille de Valmy ?
+ganswer:1
+________________________________ end Round 15 Stats ________________________________________
+________________________________ Round 16 Stats ________________________________________
+DATEOREVENT:0
+button1:23
+button2:15
+button3:14
+button4:4
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: de 1941-1945 J.-C. ?
+l'Adoption de la déclaration des droits de l'homme et du citoyen, Extermination des juifs, le Jeudi noir ?
+ganswer:2
+________________________________ end Round 16 Stats ________________________________________
+________________________________ Round 17 Stats ________________________________________
+DATEOREVENT:1
+button1:16
+button2:6
+button3:32
+button4:4
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: La République populaire de Chine ?
+le 1er Octobre 1949 J.-C., le 14 Juillet 1789 J.-C., le 1er prairial an III ?
+ganswer:1
+________________________________ end Round 17 Stats ________________________________________
+________________________________ Round 18 Stats ________________________________________
+DATEOREVENT:0
+button1:3
+button2:12
+button3:17
+button4:13
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: en 1954 J.-C. ?
+Louis XIV à Versailles, la Révolution Russe, Guerre d’Algérie ?
+ganswer:3
+________________________________ end Round 18 Stats ________________________________________
+________________________________ Round 19 Stats ________________________________________
+DATEOREVENT:0
+button1:18
+button2:1
+button3:7
+button4:28
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: en 1965 J.-C. ?
+Guerre du Vietnam, la Découverte de L'Amérique, le Sacre de Napoléon ?
+ganswer:1
+________________________________ end Round 19 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:11:30:10
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:30
+button2:2
+button3:0
+button4:27
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Guerre de 100 ans ?
+le 21 janvier 1793, le 29 mai 1453 J.-C., de 1337-1453 J.-C. ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:0
+button1:29
+button2:3
+button3:1
+button4:25
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: en 1492 J.-C. ?
+la Convention nationale abolit la royauté et fonde la Ire République au lendemain de la bataille de Valmy, Louis XIV à Versailles, la Découverte de L'Amérique ?
+ganswer:2
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:10
+button2:2
+button3:16
+button4:24
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: l'Imprimerie en Europe ?
+de 1861-1865 J.-C., le 29 mai 1453 J.-C., le 1er Octobre 1949 J.-C. ?
+ganswer:1
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:1
+button1:3
+button2:31
+button3:12
+button4:1
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Louis XIV à Versailles ?
+en 1682 J.-C., le 9 thermidor an II, en 1917 J.-C. ?
+ganswer:2
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:1
+button1:13
+button2:4
+button3:17
+button4:32
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: la Révolution Américaine ?
+au Milieu XIXe J.-C., de 1775-1782 J.-C., en 1954 J.-C. ?
+ganswer:1
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:0
+button1:25
+button2:28
+button3:5
+button4:0
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 2 novembre 1789 - 9 novembre 1799 ?
+la fusillade du Champ-de-Mars, la Chute de la monarchie et suspension de Louis XVI, la Révolution française ?
+ganswer:2
+________________________________ end Round 6 Stats ________________________________________
+________________________________ Round 7 Stats ________________________________________
+DATEOREVENT:0
+button1:33
+button2:29
+button3:6
+button4:19
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 14 Juillet 1789 J.-C. ?
+le début du Directoire, la Convention nationale abolit la royauté et fonde la Ire République au lendemain de la bataille de Valmy, la Prise de la bastille ?
+ganswer:2
+________________________________ end Round 7 Stats ________________________________________
+________________________________ Round 8 Stats ________________________________________
+DATEOREVENT:0
+button1:2
+button2:7
+button3:25
+button4:14
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: le 2 Décembre 1804 J.-C. ?
+l'Imprimerie en Europe, le Sacre de Napoléon, la fusillade du Champ-de-Mars ?
+ganswer:1
+________________________________ end Round 8 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:12:3:12
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:12:3:14
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:12:3:19
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:8:36
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:19:0
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:19:27
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:0
+button2:32
+button3:31
+button4:16
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la Guerre de 100 ans ?
+de 1337-1453 J.-C., le 1er prairial an III, le 9 thermidor an II ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:21:59
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:5
+button2:16
+button3:0
+button4:10
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: Louis XIV à Versailles ?
+en 1815 J.-C., le 9 thermidor an II, en 1682 J.-C. ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:22:47
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:0
+button2:13
+button3:17
+button4:1
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Louis XIV à Versailles ?
+en 1682 J.-C., le 21 septembre 1792, le 9 brumaire an IV ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:0
+button1:1
+button2:6
+button3:15
+button4:11
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: le 2 novembre 1789 - 9 novembre 1799 ?
+la Révolution française, le serment du jeux de paume, la Fin de la Terreur et chute de Robespierre ?
+ganswer:1
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:2
+button2:9
+button3:7
+button4:1
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la Prise de la bastille ?
+le 14 Juillet 1789 J.-C., le 17 juillet 1791, le 26 août 1789 ?
+ganswer:1
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:1
+button1:18
+button2:7
+button3:3
+button4:0
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: le Sacre de Napoléon ?
+le 18 brumaire an VIII, le 26 août 1789, le 2 Décembre 1804 J.-C. ?
+ganswer:1
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:0
+button1:4
+button2:17
+button3:2
+button4:9
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: en 1815 J.-C. ?
+le Congrès de Vienne, le début du Directoire, la Prise de la bastille ?
+ganswer:2
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:0
+button1:17
+button2:5
+button3:16
+button4:10
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: le 5 mai 1789 ?
+le début du Directoire, l'Ouverture des états généraux, l'Insurrection populaire réclamant le pain et le retour à la Constitution de l'an I (Insurrection violement réprimée dans le sang) ?
+ganswer:1
+________________________________ end Round 6 Stats ________________________________________
+________________________________ Round 7 Stats ________________________________________
+DATEOREVENT:1
+button1:6
+button2:1
+button3:3
+button4:14
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: le serment du jeux de paume ?
+le 20 juin 1789, le 2 novembre 1789 - 9 novembre 1799, le 2 Décembre 1804 J.-C. ?
+ganswer:1
+________________________________ end Round 7 Stats ________________________________________
+________________________________ Round 8 Stats ________________________________________
+DATEOREVENT:1
+button1:4
+button2:7
+button3:16
+button4:18
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: l'Adoption de la déclaration des droits de l'homme et du citoyen ?
+en 1815 J.-C., le 26 août 1789, le 1er prairial an III ?
+ganswer:2
+________________________________ end Round 8 Stats ________________________________________
+________________________________ Round 9 Stats ________________________________________
+DATEOREVENT:1
+button1:16
+button2:8
+button3:18
+button4:10
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: la Fuite de Varennes ?
+le 1er prairial an III, le 21 juin 1791, le 18 brumaire an VIII ?
+ganswer:4
+________________________________ end Round 9 Stats ________________________________________
+________________________________ Round 10 Stats ________________________________________
+DATEOREVENT:1
+button1:9
+button2:18
+button3:5
+button4:10
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la fusillade du Champ-de-Mars ?
+le 17 juillet 1791, le 18 brumaire an VIII, le 5 mai 1789 ?
+ganswer:4
+________________________________ end Round 10 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:28:52
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:0
+button2:12
+button3:10
+button4:3
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Louis XIV à Versailles ?
+en 1682 J.-C., le 10 août 1792 (bis), le 14 septembre 1791 ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:0
+button1:1
+button2:17
+button3:7
+button4:13
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: le 2 novembre 1789 - 9 novembre 1799 ?
+la Révolution française, le début du Directoire, l'Adoption de la déclaration des droits de l'homme et du citoyen ?
+ganswer:1
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:4
+button2:15
+button3:2
+button4:7
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Prise de la bastille ?
+en 1815 J.-C., le 9 thermidor an II, le 14 Juillet 1789 J.-C. ?
+ganswer:3
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:1
+button1:3
+button2:4
+button3:15
+button4:6
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: le Sacre de Napoléon ?
+le 2 Décembre 1804 J.-C., en 1815 J.-C., le 9 thermidor an II ?
+ganswer:1
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:1
+button1:7
+button2:4
+button3:11
+button4:9
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: le Congrès de Vienne ?
+le 26 août 1789, en 1815 J.-C., le 10 août 1792 ?
+ganswer:2
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:0
+button1:4
+button2:14
+button3:5
+button4:13
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 5 mai 1789 ?
+le Congrès de Vienne, l'Exécution de Louis XVI, l'Ouverture des états généraux ?
+ganswer:3
+________________________________ end Round 6 Stats ________________________________________
+________________________________ Round 7 Stats ________________________________________
+DATEOREVENT:1
+button1:4
+button2:6
+button3:8
+button4:18
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: le serment du jeux de paume ?
+en 1815 J.-C., le 20 juin 1789, le 21 juin 1791 ?
+ganswer:2
+________________________________ end Round 7 Stats ________________________________________
+________________________________ Round 8 Stats ________________________________________
+DATEOREVENT:1
+button1:1
+button2:7
+button3:9
+button4:2
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: l'Adoption de la déclaration des droits de l'homme et du citoyen ?
+le 2 novembre 1789 - 9 novembre 1799, le 26 août 1789, le 17 juillet 1791 ?
+ganswer:2
+________________________________ end Round 8 Stats ________________________________________
+________________________________ Round 9 Stats ________________________________________
+DATEOREVENT:0
+button1:5
+button2:10
+button3:8
+button4:4
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 21 juin 1791 ?
+l'Ouverture des états généraux, Louis XVI prête serment à la Constitution, la Fuite de Varennes ?
+ganswer:3
+________________________________ end Round 9 Stats ________________________________________
+________________________________ Round 10 Stats ________________________________________
+DATEOREVENT:0
+button1:9
+button2:12
+button3:6
+button4:5
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: le 17 juillet 1791 ?
+la fusillade du Champ-de-Mars, la Chute de la monarchie et suspension de Louis XVI, le serment du jeux de paume ?
+ganswer:1
+________________________________ end Round 10 Stats ________________________________________
+________________________________ Round 11 Stats ________________________________________
+DATEOREVENT:1
+button1:5
+button2:4
+button3:10
+button4:6
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: Louis XVI prête serment à la Constitution ?
+le 5 mai 1789, en 1815 J.-C., le 14 septembre 1791 ?
+ganswer:3
+________________________________ end Round 11 Stats ________________________________________
+________________________________ Round 12 Stats ________________________________________
+DATEOREVENT:1
+button1:11
+button2:8
+button3:17
+button4:9
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la prise des Tuileries avec l'aide des fédérés marseillais ?
+le 10 août 1792, le 21 juin 1791, le 9 brumaire an IV ?
+ganswer:4
+________________________________ end Round 12 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:37:49
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:0
+button1:0
+button2:18
+button3:1
+button4:9
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: en 1682 J.-C. ?
+Louis XIV à Versailles, le Coup d'état établissant le Consulat, dominé par Bonaparte, la Révolution française ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:0
+button1:6
+button2:8
+button3:1
+button4:16
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 2 novembre 1789 - 9 novembre 1799 ?
+le serment du jeux de paume, la Fuite de Varennes, la Révolution française ?
+ganswer:3
+________________________________ end Round 2 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:39:4
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:39:12
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:10
+button2:0
+button3:12
+button4:5
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: Louis XIV à Versailles ?
+le 14 septembre 1791, en 1682 J.-C., le 10 août 1792 (bis) ?
+ganswer:2
+________________________________ end Round 1 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:43:34
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:16
+button2:0
+button3:18
+button4:6
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: Louis XIV à Versailles ?
+le 1er prairial an III, en 1682 J.-C., le 18 brumaire an VIII ?
+ganswer:2
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:0
+button1:13
+button2:10
+button3:1
+button4:17
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 2 novembre 1789 - 9 novembre 1799 ?
+la Convention nationale abolit la royauté et fonde la Ire République au lendemain de la bataille de Valmy, Louis XVI prête serment à la Constitution, la Révolution française ?
+ganswer:3
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:13
+button2:9
+button3:2
+button4:3
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Prise de la bastille ?
+le 21 septembre 1792, le 17 juillet 1791, le 14 Juillet 1789 J.-C. ?
+ganswer:3
+________________________________ end Round 3 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:44:48
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:0
+button1:1
+button2:11
+button3:3
+button4:16
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: le 2 Décembre 1804 J.-C. ?
+la Révolution française, la prise des Tuileries avec l'aide des fédérés marseillais, le Sacre de Napoléon ?
+ganswer:3
+________________________________ end Round 4 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:48:54
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:11
+button2:0
+button3:3
+button4:15
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: Louis XIV à Versailles ?
+le 10 août 1792, en 1682 J.-C., le 2 Décembre 1804 J.-C. ?
+ganswer:2
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:0
+button2:8
+button3:7
+button4:3
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Louis XIV à Versailles ?
+en 1682 J.-C., le 21 juin 1791, le 26 août 1789 ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:0
+button1:1
+button2:17
+button3:2
+button4:18
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: le 2 novembre 1789 - 9 novembre 1799 ?
+la Révolution française, le début du Directoire, la Prise de la bastille ?
+ganswer:1
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:0
+button1:11
+button2:2
+button3:18
+button4:12
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: le 14 Juillet 1789 J.-C. ?
+la prise des Tuileries avec l'aide des fédérés marseillais, la Prise de la bastille, le Coup d'état établissant le Consulat, dominé par Bonaparte ?
+ganswer:1
+________________________________ end Round 3 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:18:55:18
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:12
+button2:0
+button3:15
+button4:13
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: Louis XIV à Versailles ?
+le 10 août 1792 (bis), en 1682 J.-C., le 9 thermidor an II ?
+ganswer:2
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:1
+button2:13
+button3:14
+button4:0
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: la Révolution française ?
+le 2 novembre 1789 - 9 novembre 1799, le 21 septembre 1792, le 21 janvier 1793 ?
+ganswer:1
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:0
+button2:17
+button3:2
+button4:9
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: la Prise de la bastille ?
+en 1682 J.-C., le 9 brumaire an IV, le 14 Juillet 1789 J.-C. ?
+ganswer:3
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:1
+button1:6
+button2:3
+button3:9
+button4:18
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: le Sacre de Napoléon ?
+le 20 juin 1789, le 2 Décembre 1804 J.-C., le 17 juillet 1791 ?
+ganswer:4
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:1
+button1:3
+button2:4
+button3:9
+button4:18
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: le Congrès de Vienne ?
+le 2 Décembre 1804 J.-C., en 1815 J.-C., le 17 juillet 1791 ?
+ganswer:2
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:1
+button1:14
+button2:5
+button3:18
+button4:16
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: l'Ouverture des états généraux ?
+le 21 janvier 1793, le 5 mai 1789, le 18 brumaire an VIII ?
+ganswer:2
+________________________________ end Round 6 Stats ________________________________________
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Dropbox\Henry et Papa\Matières\NSI\T1
+OS:Windows
+Date:3/9/2020
+time:19:10:3
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
