@@ -12,8 +12,8 @@ for i in range(len(math)):
     print("Je prend le nombre {} et je le divise par 1000 pour passer du kilo à la tonne.".format(num))
     write("Je prend le nombre {} et je le divise par 1000 pour passer du kilo à la tonne.".format(num))
     num/=1000
-    print("Je prend le nombre {} et je mulitîplie par41900000000 pour passer de la tonne au Joule.".format(num))
-    write("Je prend le nombre {} et je mulitîplie par41900000000 pour passer de la tonne au Joule.".format(num))
+    print("Je prend le nombre {} et je mulitîplie par 41900000000 pour passer de la tonne au Joule.".format(num))
+    write("Je prend le nombre {} et je mulitîplie par 41900000000 pour passer de la tonne au Joule.".format(num))
     num*=41900000000
     print("Le nombre {} (en kg) est égale à {} Joule(s).".format(numm,num))
     write("Le nombre {} (en kg) est égale à {} Joule(s).".format(numm,num))
@@ -30,5 +30,7 @@ for i in range(len(joule)):
             print("{} est inférieur à {}".format(joule[i],joule2[e]))
             write("{} est inférieur à {}".format(joule[i],joule2[e]))
         elif joule[i]==joule2[e]:continue
+
+pause=input("press Enter to continue")
         
         
