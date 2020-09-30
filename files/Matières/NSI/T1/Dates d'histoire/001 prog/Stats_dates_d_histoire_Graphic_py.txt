@@ -8983,3 +8983,105 @@ dates:
 -------------------------------- End of Game Stats ----------------------------------------
 
 -------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Documents\001 Github prog Sharing\Backup-of-matiere\files\Matières\NSI\T1\Dates d'histoire\001 prog
+OS:Windows
+Date:29/9/2020
+time:16:48:53
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+-------------------------------- stats ----------------------------------------
+Chemin d'accès:C:\Users\Henry PC\Documents\001 Github prog Sharing\Backup-of-matiere\files\Matières\NSI\T1\Dates d'histoire\001 prog
+OS:Windows
+Date:29/9/2020
+time:16:50:53
+-------------------------------- end stats ----------------------------------------
+
+-------------------------------- Game Stats ----------------------------------------
+Font:Times_New_Roman
+Size:8
+WBG:Orange
+FBG:White
+LBG:grey
+WFG:black
+FFG:blue
+LFG:white
+F1:flat
+F1T:groove
+F1b:groove
+F1q:flat
+hfDE:blue
+hbDE:green
+hfEN:blue
+hbEN:green
+hfFR:blue
+hbFR:green
+hfES:blue
+hbES:green
+hfq:blue
+hbq:green
+score:0
+erreur:0
+dates:
+-------------------------------- End of Game Stats ----------------------------------------
+
+-------------------------------- InGameStats ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:date
+button1:la Convention nationale abolit la royauté et fonde la Ire République au lendemain de la bataille de Valmy
+button2:Abolition des privilèges
+button3:l'Ouverture des états généraux
+button4:l'Insurrection populaire réclamant le pain et le retour à la Constitution de l'an I (Insurrection violement réprimée dans le sang)
+Answer with:event
+ Correct answer:Abolition des privilèges
+Question: Que s'est-il passé: le 5 mai 1789 ?
+Choices: la Convention nationale abolit la royauté et fonde la Ire République au lendemain de la bataille de Valmy, Abolition des privilèges, l'Ouverture des états généraux, l'Insurrection populaire réclamant le pain et le retour à la Constitution de l'an I (Insurrection violement réprimée dans le sang)
+given answer:1
+________________________________ end Round 1 Stats ________________________________________button1=9 ansswer2
+button1=1 ansswer2
+button1=3 ansswer2
+
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:event
+button1:le 4 août 1789
+button2:le 20 juin 1789
+button3:le 26 juin 1794
+button4:le 18 et 19 brumaire an VIII (9 et 10 novembre 1799)
+Answer with:date
+ Correct answer:le 14 Juillet 1789
+Question: Quand a été: le serment du jeux de paume ?
+Choices: le 4 août 1789, le 20 juin 1789, le 26 juin 1794, le 18 et 19 brumaire an VIII (9 et 10 novembre 1799)
+given answer:2
+________________________________ end Round 2 Stats ________________________________________
