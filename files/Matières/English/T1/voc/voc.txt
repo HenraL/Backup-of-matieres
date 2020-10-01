@@ -1,0 +1,79 @@
+A binder,A class folder binding loose paper
+A report,Un compte rendu
+All Saints Vacation,la toussain
+A placement test,un test de niveau
+To be unveiled,To be revealed/inaugurated
+To topple a monument,To destroy/break a monument
+The flip of the coin,the second side/the bad aspect
+Wisdom teeth,Dent de sagesse
+A key question,Une problématique
+Consumer society,La société de consommation
+A minstrel,Un ministrel
+A tomboy,Un garçon manqué
+Whom,The person whom I wanted to see was absent
+Who,The person who was in the restaurant was nice
+A competitive exam,Un examen
+Ephemeral art,Temporary
+To bounce,Rebondir
+To adhere,To agree
+Strength,Force
+College,1st 4 years of University
+Collège,Junior high (school)
+Lycée,Senior high (School)
+PhD,Doctora
+
+{"date":"Patrons","event":"Customer"},
+{"date":"To parton a place","event":"to be a frequent customer of a place"},
+{"date":"To stagger","event":"tituber"},
+
+{"date":"OULIPO","event":"Ouvroire de la literature international"},
+{"date":"Bold/courageous","event":"brave/courageux"},
+{"date":"Bald","event":"no hair on your head"},
+{"date":"A wake-up call","event":"a warning cry"},
+{"date":"To be in shambles / ruins","event":"être en ruine"},
+{"date":"A Coroner","event":"a forensic doctor (legal doctor)"},
+{"date":"To be deceiving","event":"être décevant"},
+{"date":"A candlelight vigil","event":"tribut with candles (generaly silent gathering)/un homage avec des bougies"},
+{"date":"A saying","event":"a proverb"},
+{"date":"Drowsy","event":"sleepy"},
+{"date":"Defacement","event":"Vandalism"},
+{"date":"Shameless","event":"sans honte"},
+{"date":"Skull","event":"crâne"},
+To be overdue = too late
+A screen play  le scénario
+A trigger = l’élément déclancheur
+To shred = déchiqueter
+To cruch = broyer
+A tab
+Driver’s licence
+A civil servant
+A masterpiece
+A tangle = a knot
+A thorn
+An innuendo = un sous-entendut
+Unrest = agitation
+Theocracies = countries governed by religion
+Commencement = graduation day
+Stendal Syndrom = to experience an intense effect
+To wail = se lamenter
+Keen = sharp (senses)
+An Internship = a training
+A solicitor = un notaire
+Tilted = penché/incliné
+Once bitten twice shy = chat échaudé craint l’eau froide
+Utmost = extreme/maximum
+A cleavage = un décolté
+A pun = a word play
+A footage = a clip
+An anthem = a hymn
+Une Colombe = a dove
+To be dressed up to the nines = être sur son 31
+To be on cloud 9 = être sur un petit nuage
+Shaby = louche, odd, sleezy, fishy
+Hispanics = Spanish speaking (can come from spain, Mexico, Chile, Argentina, …)
+Latinos = Born in Latin America (Brazil, Venezuela, Mexico, Chile, Argentina, …)
+
+$ = symbol of Capitalism
+A pen name  a name you take as an artist
+
+

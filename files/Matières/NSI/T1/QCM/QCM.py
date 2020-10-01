@@ -72,14 +72,14 @@ class PlayQcm:
         f=open("Score/{}".format(ScoreFileName),"w")
         f.write("{}\n{}".format(points,erreur))
         f.close()
-class AnswerRandomiserAndChecker:
-    def randomiser():
+#class AnswerRandomiserAndChecker:
+#    def randomiser():
         
 class AnswerQMC:
     def AnswerQMC3():
-        print("e")
+        print("e3")
     def AnswerQMC4():
-        print("e")
+        print("e4")
 
 class createQCMList:
     PlayQcm.scanQCMFolder()
