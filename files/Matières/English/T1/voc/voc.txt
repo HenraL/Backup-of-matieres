@@ -40,7 +40,7 @@ PhD,Doctora
 {"date":"Shameless","event":"sans honte"},
 {"date":"Skull","event":"crâne"},
 To be overdue = too late
-A screen play  le scénario
+A screen play = le scénario
 A trigger = l’élément déclancheur
 To shred = déchiqueter
 To cruch = broyer
@@ -74,6 +74,6 @@ Hispanics = Spanish speaking (can come from spain, Mexico, Chile, Argentina, …
 Latinos = Born in Latin America (Brazil, Venezuela, Mexico, Chile, Argentina, …)
 
 $ = symbol of Capitalism
-A pen name  a name you take as an artist
+A pen name = a name you take as an artist
 
 
