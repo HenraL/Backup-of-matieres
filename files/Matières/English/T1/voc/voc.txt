@@ -45,9 +45,9 @@ A trigger = l’élément déclancheur
 To shred = déchiqueter
 To cruch = broyer
 A tab
-Driver’s licence
-A civil servant
-A masterpiece
+Driver’s licence = permis de conduir
+A civil servant = un fonctionnaire d'état
+A masterpiece = un chef d'oeuvre
 A tangle = a knot
 A thorn
 An innuendo = un sous-entendut
