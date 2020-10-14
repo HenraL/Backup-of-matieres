@@ -75,5 +75,7 @@ Latinos = Born in Latin America (Brazil, Venezuela, Mexico, Chile, Argentina, â€
 
 $ = symbol of Capitalism
 A pen name = a name you take as an artist
+A voice Over = une voie off
+Average = la moyenne
 
 
