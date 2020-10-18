@@ -1,0 +1,70 @@
+                      *=============================================================================================================*                    
+                      |                              @@         @@                                                                  |                    
+                      |                             @@         @@                                                                   |                    
+                      |                            @@         @@                                                                    |                    
+                      |                                                                                                             |                    
+                      |      @@@@@@@@   @@@@@@   @@@@@@@@  @@@@@@@@              @@@@@@@@      @@        @@@@@@@@@                  |                    
+                      |      @@        @      @  @@        @@                   @@       @    @  @       @@       @                 |                    
+                      |      @@        @      @  @@        @@                   @@       @   @    @      @@       @                 |                    
+                      |      @@        @@@@@@@   @@@@@@@@  @@@@@@@@             @@@@@@@@@   @@@@@@@@     @@@@@@@@@                  |                    
+                      |      @@        @  @      @@        @@                   @@         @        @    @@    @                    |                    
+                      |      @@        @   @     @@        @@                   @@        @          @   @@     @                   |                    
+                      |      @@@@@@@@  @    @    @@@@@@@@  @@@@@@@@             @@       @            @  @@      @                  |                    
+                      |                                                                                                             |                    
+                      |              @@       @@  @@@@@@@@@  @@      @@  @@@@@@@@   @@       @@                                     |                    
+                      |              @@       @@  @@         @@@     @@  @@       @  @@     @@                                      |                    
+                      |              @@       @@  @@         @@ @    @@  @@       @   @@   @@                                       |                    
+                      |              @@@@@@@@@@@  @@@@@@@@@  @@  @   @@  @@@@@@@@@     @@ @@                                        |                    
+                      |              @@       @@  @@         @@   @  @@  @@    @        @@@                                         |                    
+                      |              @@       @@  @@         @@    @ @@  @@     @       @@                                          |                    
+                      |              @@       @@  @@@@@@@@@  @@     @@@  @@      @     @@                                           |                    
+                      |                                                                                                             |                    
+                      |      @@         @@@@@@@@  @@@@@@@@@@@  @@@@@@@@@@@  @@         @@         @@@@@@@@   @@@@@@@  @@@@@@@@      |                    
+                      |      @@         @@            @@       @@           @@         @@            @@      @@       @@       @    |                    
+                      |      @@         @@            @@       @@           @@         @@            @@      @@       @@       @    |                    
+                      |      @@         @@@@@@@@      @@       @@@@@@@@@@@  @@         @@            @@      @@@@@@@  @@@@@@@@@     |                    
+                      |      @@         @@            @@       @@           @@         @@            @@      @@       @@   @        |                    
+                      |      @@         @@            @@       @@           @@         @@            @@      @@       @@    @       |                    
+                      |      @@@@@@@@@  @@@@@@@@      @@       @@@@@@@@@@@  @@@@@@@@@  @@@@@@@@@@ @@@@@@@@   @@@@@@@  @@     @      |                    
+                      .=============================================================================================================.                     TUT1="img/The unknown thing/exported/The_unknown_thing_pencil_export001.png"
+TUT2="img/The unknown thing/exported/The_unknown_thing_pencil_export002.png"
+TUT3="img/The unknown thing/exported/The_unknown_thing_pencil_export003.png"
+TUT4="img/The unknown thing/exported/The_unknown_thing_pencil_export004.png"
+TUT5="img/The unknown thing/exported/The_unknown_thing_pencil_export005.png"
+TUT6="img/The unknown thing/exported/The_unknown_thing_pencil_export006.png"
+TUT7="img/The unknown thing/exported/The_unknown_thing_pencil_export007.png"
+TUT8="img/The unknown thing/exported/The_unknown_thing_pencil_export008.png"
+TUT9="img/The unknown thing/exported/The_unknown_thing_pencil_export009.png"
+TUT10="img/The unknown thing/exported/The_unknown_thing_pencil_export010.png"
+TUT11="img/The unknown thing/exported/The_unknown_thing_pencil_export011.png"
+TUT12="img/The unknown thing/exported/The_unknown_thing_pencil_export012.png"
+TUT13="img/The unknown thing/exported/The_unknown_thing_pencil_export013.png"
+TUT14="img/The unknown thing/exported/The_unknown_thing_pencil_export014.png"
+TUT15="img/The unknown thing/exported/The_unknown_thing_pencil_export015.png"
+TUT16="img/The unknown thing/exported/The_unknown_thing_pencil_export016.png"
+TUT17="img/The unknown thing/exported/The_unknown_thing_pencil_export017.png"
+TUT18="img/The unknown thing/exported/The_unknown_thing_pencil_export018.png"
+TUT19="img/The unknown thing/exported/The_unknown_thing_pencil_export019.png"
+TUT20="img/The unknown thing/exported/The_unknown_thing_pencil_export020.png"
+TUT21="img/The unknown thing/exported/The_unknown_thing_pencil_export021.png"
+TUT22="img/The unknown thing/exported/The_unknown_thing_pencil_export022.png"
+TUT23="img/The unknown thing/exported/The_unknown_thing_pencil_export023.png"
+TUT24="img/The unknown thing/exported/The_unknown_thing_pencil_export024.png"
+TUT25="img/The unknown thing/exported/The_unknown_thing_pencil_export025.png"
+TUT26="img/The unknown thing/exported/The_unknown_thing_pencil_export026.png"
+TUT27="img/The unknown thing/exported/The_unknown_thing_pencil_export027.png"
+TUT28="img/The unknown thing/exported/The_unknown_thing_pencil_export028.png"
+TUT29="img/The unknown thing/exported/The_unknown_thing_pencil_export029.png"
+TUT30="img/The unknown thing/exported/The_unknown_thing_pencil_export030.png"
+TUT31="img/The unknown thing/exported/The_unknown_thing_pencil_export031.png"
+TUT32="img/The unknown thing/exported/The_unknown_thing_pencil_export032.png"
+TUT33="img/The unknown thing/exported/The_unknown_thing_pencil_export033.png"
+TUT34="img/The unknown thing/exported/The_unknown_thing_pencil_export034.png"
+TUT35="img/The unknown thing/exported/The_unknown_thing_pencil_export035.png"
+TUT36="img/The unknown thing/exported/The_unknown_thing_pencil_export036.png"
+TUT37="img/The unknown thing/exported/The_unknown_thing_pencil_export037.png"
+TUT38="img/The unknown thing/exported/The_unknown_thing_pencil_export038.png"
+TUT39="img/The unknown thing/exported/The_unknown_thing_pencil_export039.png"
+TUT40="img/The unknown thing/exported/The_unknown_thing_pencil_export040.png"
+TUT41="img/The unknown thing/exported/The_unknown_thing_pencil_export041.png"
+TUT=['TUT1="img/The unknown thing/exported/The_unknown_thing_pencil_export001.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export001.png"', 'TUT2="img/The unknown thing/exported/The_unknown_thing_pencil_export002.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export002.png"', 'TUT3="img/The unknown thing/exported/The_unknown_thing_pencil_export003.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export003.png"', 'TUT4="img/The unknown thing/exported/The_unknown_thing_pencil_export004.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export004.png"', 'TUT5="img/The unknown thing/exported/The_unknown_thing_pencil_export005.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export005.png"', 'TUT6="img/The unknown thing/exported/The_unknown_thing_pencil_export006.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export006.png"', 'TUT7="img/The unknown thing/exported/The_unknown_thing_pencil_export007.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export007.png"', 'TUT8="img/The unknown thing/exported/The_unknown_thing_pencil_export008.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export008.png"', 'TUT9="img/The unknown thing/exported/The_unknown_thing_pencil_export009.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export009.png"', 'TUT10="img/The unknown thing/exported/The_unknown_thing_pencil_export010.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export010.png"', 'TUT11="img/The unknown thing/exported/The_unknown_thing_pencil_export011.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export011.png"', 'TUT12="img/The unknown thing/exported/The_unknown_thing_pencil_export012.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export012.png"', 'TUT13="img/The unknown thing/exported/The_unknown_thing_pencil_export013.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export013.png"', 'TUT14="img/The unknown thing/exported/The_unknown_thing_pencil_export014.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export014.png"', 'TUT15="img/The unknown thing/exported/The_unknown_thing_pencil_export015.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export015.png"', 'TUT16="img/The unknown thing/exported/The_unknown_thing_pencil_export016.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export016.png"', 'TUT17="img/The unknown thing/exported/The_unknown_thing_pencil_export017.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export017.png"', 'TUT18="img/The unknown thing/exported/The_unknown_thing_pencil_export018.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export018.png"', 'TUT19="img/The unknown thing/exported/The_unknown_thing_pencil_export019.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export019.png"', 'TUT20="img/The unknown thing/exported/The_unknown_thing_pencil_export020.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export020.png"', 'TUT21="img/The unknown thing/exported/The_unknown_thing_pencil_export021.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export021.png"', 'TUT22="img/The unknown thing/exported/The_unknown_thing_pencil_export022.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export022.png"', 'TUT23="img/The unknown thing/exported/The_unknown_thing_pencil_export023.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export023.png"', 'TUT24="img/The unknown thing/exported/The_unknown_thing_pencil_export024.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export024.png"', 'TUT25="img/The unknown thing/exported/The_unknown_thing_pencil_export025.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export025.png"', 'TUT26="img/The unknown thing/exported/The_unknown_thing_pencil_export026.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export026.png"', 'TUT27="img/The unknown thing/exported/The_unknown_thing_pencil_export027.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export027.png"', 'TUT28="img/The unknown thing/exported/The_unknown_thing_pencil_export028.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export028.png"', 'TUT29="img/The unknown thing/exported/The_unknown_thing_pencil_export029.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export029.png"', 'TUT30="img/The unknown thing/exported/The_unknown_thing_pencil_export030.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export030.png"', 'TUT31="img/The unknown thing/exported/The_unknown_thing_pencil_export031.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export031.png"', 'TUT32="img/The unknown thing/exported/The_unknown_thing_pencil_export032.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export032.png"', 'TUT33="img/The unknown thing/exported/The_unknown_thing_pencil_export033.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export033.png"', 'TUT34="img/The unknown thing/exported/The_unknown_thing_pencil_export034.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export034.png"', 'TUT35="img/The unknown thing/exported/The_unknown_thing_pencil_export035.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export035.png"', 'TUT36="img/The unknown thing/exported/The_unknown_thing_pencil_export036.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export036.png"', 'TUT37="img/The unknown thing/exported/The_unknown_thing_pencil_export037.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export037.png"', 'TUT38="img/The unknown thing/exported/The_unknown_thing_pencil_export038.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export038.png"', 'TUT39="img/The unknown thing/exported/The_unknown_thing_pencil_export039.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export039.png"', 'TUT40="img/The unknown thing/exported/The_unknown_thing_pencil_export040.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export040.png"', 'TUT41="img/The unknown thing/exported/The_unknown_thing_pencil_export041.png"', '"img/The unknown thing/exported/The_unknown_thing_pencil_export041.png"']
