@@ -22,23 +22,23 @@ Collège,Junior high (school)
 Lycée,Senior high (School)
 PhD,Doctora
 
-{"date":"Patrons","event":"Customer"},
-{"date":"To parton a place","event":"to be a frequent customer of a place"},
-{"date":"To stagger","event":"tituber"},
+Patrons = Customer
+To parton a place = to be a frequent customer of a place
+To stagger = tituber
 
-{"date":"OULIPO","event":"Ouvroire de la literature international"},
-{"date":"Bold/courageous","event":"brave/courageux"},
-{"date":"Bald","event":"no hair on your head"},
-{"date":"A wake-up call","event":"a warning cry"},
-{"date":"To be in shambles / ruins","event":"être en ruine"},
-{"date":"A Coroner","event":"a forensic doctor (legal doctor)"},
-{"date":"To be deceiving","event":"être décevant"},
-{"date":"A candlelight vigil","event":"tribut with candles (generaly silent gathering)/un homage avec des bougies"},
-{"date":"A saying","event":"a proverb"},
-{"date":"Drowsy","event":"sleepy"},
-{"date":"Defacement","event":"Vandalism"},
-{"date":"Shameless","event":"sans honte"},
-{"date":"Skull","event":"crâne"},
+OULIPO = Ouvroire de la literature international
+Bold/courageous = brave/courageux
+Bald = no hair on your head
+A wake-up call = a warning cry
+To be in shambles / ruins = être en ruine
+A Coroner = a forensic doctor (legal doctor)
+To be deceiving = être décevant
+A candlelight vigil = tribut with candles (generaly silent gathering)/un homage avec des bougies
+A saying = a proverb
+Drowsy = sleepy
+Defacement = Vandalism
+Shameless = sans honte
+Skull = crâne
 To be overdue = too late
 A screen play = le scénario
 A trigger = l’élément déclancheur
@@ -92,8 +92,8 @@ To peep = regarder sans être vu
 A PeepingTom = un voyeur (a person who looks without being seen)
 A chopper = a helicopter
 A portmanteau word = un mot valise
-Ustopia  dystopia
-	      Utopia
+Ustopia --> dystopia
+	        Utopia
 Attorney General = un minister de la justice
 It is excruciating = it is umberable
 To lose one’s temper = perdre sa patience
