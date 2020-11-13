@@ -1,7 +1,7 @@
 #Définition de la classe voiture
 class voiture:
     #constructeur
-    def __init__(self): #self déisgne l'instance de la classe
+    def __init__(self): #self désigne l'instance de la classe
         #initialisation des attributs d'instance
         self.couleur="rouge"
         self.puissance="150ch"
