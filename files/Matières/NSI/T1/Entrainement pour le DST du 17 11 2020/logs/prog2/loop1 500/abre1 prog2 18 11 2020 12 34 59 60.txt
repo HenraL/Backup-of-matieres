@@ -1,0 +1,16 @@
+Random Binary Tree
+
+  ___1
+ /    \
+7      6__
+ \        \
+  11       3
+          / \
+         9   0
+
+Affichage Préfixé
+[Node(1), Node(7), Node(11), Node(6), Node(3), Node(9), Node(0)]
+Affichage infixé
+[Node(7), Node(11), Node(1), Node(6), Node(9), Node(3), Node(0)]
+Affichage postfixé
+[Node(11), Node(7), Node(9), Node(0), Node(3), Node(6), Node(1)]
