@@ -1,4 +1,7 @@
-import cx_Freeze
+try:
+    import cx_Freeze
+except:
+    pip install cx_Freeze
 
 executables = [cx_Freeze.Executable("Sprinting Shark Three.py")]
 

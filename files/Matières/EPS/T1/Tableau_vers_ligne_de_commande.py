@@ -32,7 +32,11 @@ class get:
         self.ShowList=""
         self.actTimeTurn_results=""
         self.chosenList=[]
-        self.lists=[["---------Choisissez un élément---------","0","1","2"],["---------Choisissez un élément---------","0","2","4"],["---------Choisissez un élément---------","9'03","8'41","8'20","8'00","7'41","7'24","7'08","6'53","6'39","6'26","6'20","6'13","6'07","6'01","5'55","5'49","5'43","5'37","5'31","5,25"],["---------Choisissez un élément---------","7'28","7'09","6'51","6'34","6'19","6'05","5'52","5'40","5'29","5'19","5'11","5'03","4'55","4'51","4'47","4'43","4'40","4'37","4'34","4'31"]]
+        self.lists=[
+            ["---------Choisissez un élément---------","0","1","2"], #recuperation
+            ["---------Choisissez un élément---------","0","2","4"], #ecart projet
+            ["---------Choisissez un élément---------","9'03","8'41","8'20","8'00","7'41","7'24","7'08","6'53","6'39","6'26","6'20","6'13","6'07","6'01","5'55","5'49","5'43","5'37","5'31","5,25"],
+            ["---------Choisissez un élément---------","7'28","7'09","6'51","6'34","6'19","6'05","5'52","5'40","5'29","5'19","5'11","5'03","4'55","4'51","4'47","4'43","4'40","4'37","4'34","4'31"]]
         self.messages=["Tour n°1","Tour n°2","Tour n°3","Ecart Projet","Récupération"]
     def Female(self):
         self.gender="Female"
@@ -64,23 +68,29 @@ class get:
         chosen["T{}".format(self.processedGender)]=""
         chosen["gender"]=self.gender
     def actTimeTurn(self):
-        self.chosenList=""
         def writeGetTurn(self,actTimeTurn_results):
             print ("self.Turns={}".format(self.Turns))
             # self.Turns+=1
             print ("self.ShowList={}".format(self.ShowList))
             self.ShowList+=1
             self.actTimeTurn_results=actTimeTurn_results
-        if self.ShowList==5:
-            chosenList=self.Rmc
-        elif self.ShowList==4:
+        chosenList=[]
+        print("Checker (ShowList)")
+        print("self.ShowList={}".format(self.ShowList))
+        if self.ShowList==4:
+            chosenList=self.lists[0]#self.Rmc
+            print("chosenList='{}'".format(chosenList))
+        elif self.ShowList==3:
             chosenList=self.lists[1]
+            print("chosenList='{}'".format(chosenList))
         elif self.ShowList<3:
-            if self.gender=="Male":
-                chosenList=self.TB
-            elif self.gender=="Female":
-                chosenList=self.TG
-        
+            if self.gender=="Female":
+                chosenList=self.lists[2]#self.TG
+                print("chosenList='{}'".format(chosenList))
+            elif self.gender=="Male":
+                chosenList=self.lists[3]#self.TB
+                print("chosenList='{}'".format(chosenList))
+        print("window")
         TT=Tk()
         def getTurn(*arg):
             comunalList=["9'03","8'41","8'20","8'00","7'41","7'24","7'08","6'53","6'39","6'26","6'20","6'13","6'07","6'01","5'55","5'49","5'43","5'37","5'31","5,25","7'28","7'09","6'51","6'34","6'19","6'05","5'52","5'40","5'29","5'19","5'11","5'03","4'55","4'51","4'47","4'43","4'40","4'37","4'34","4'31","0","1","2","0","2","4"]
@@ -101,6 +111,7 @@ class get:
         FrameTitle.pack(fill="both", expand="yes")
         FrameSubTitle = LabelFrame(FrameTitle, text="{}".format(self.messages[self.Turns-1]), padx=20, pady=20)
         FrameSubTitle.pack(fill="both", expand="yes")
+        print("chosenList[0]='{}'".format(chosenList[0]))
         variable = StringVar(FrameSubTitle)
         variable.set(chosenList[0])
         opt = OptionMenu(FrameSubTitle, variable, *chosenList)
@@ -120,12 +131,18 @@ class get:
         elif self.ShowList==3:
             chosen["T{}_T{}".format(self.BigRounds+1,self.Turns)]=self.actTimeTurn_results #Tour piste 3
             print("chosen[\"T{}_T{}\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.Turns-1,self.actTimeTurn_results))
-        elif self.ShowList==4:
+        elif self.ShowList==4 and self.BigRounds==0:
             chosen["T{}_E{}".format(self.BigRounds+1,self.Turns-3)]=self.actTimeTurn_results #Projet
             print("chosen[\"T{}_E1\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.actTimeTurn_results))#,Turns+1
-        elif self.ShowList==5:
-            chosen["T{}_R{}".format(self.BigRounds+1,self.Turns-3)]=self.actTimeTurn_results #Récup
+        elif self.ShowList==5 and self.BigRounds==0:
+            chosen["T{}_R{}".format(self.BigRounds+1,self.Turns-4)]=self.actTimeTurn_results #Récup
             print("chosen[\"T{}_R1\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.actTimeTurn_results))#,Turns+1
+        elif self.ShowList==4 and self.BigRounds==1:
+            chosen["T{}_E{}".format(self.BigRounds+1,self.Turns-3)]=self.actTimeTurn_results #Projet
+            print("chosen[\"T{}_E2\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.actTimeTurn_results))#,Turns+1
+        elif self.ShowList==5 and self.BigRounds==1:
+            chosen["T{}_R{}".format(self.BigRounds+1,self.Turns-4)]=self.actTimeTurn_results #Récup
+            print("chosen[\"T{}_R2\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.actTimeTurn_results))#,Turns+1
     def debug(c_choice,chosen):
         for i in range(len(c_choice)):
             print("{}={}".format(c_choice[i],chosen[c_choice[i]]))
@@ -149,7 +166,7 @@ class make(get):
         self.BigRounds=0
         self.cont=True
         self.choicemade=True
-        while self.BigRounds <3:
+        while self.BigRounds <2:
             print("\n\n\nLOOP Big\n\n\n")
             self.Turns=1
             make.small_loop(self,chosen)
@@ -158,6 +175,7 @@ class make(get):
             self.ShowList=1
             print("self.ShowList={}".format(self.ShowList))
             # self.BigRounds+=1
+            self.BigRounds+=1
 
 
 for i in range(2):
