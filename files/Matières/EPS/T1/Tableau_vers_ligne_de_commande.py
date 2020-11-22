@@ -138,11 +138,13 @@ class get:
             chosen["T{}_R{}".format(self.BigRounds+1,self.Turns-4)]=self.actTimeTurn_results #Récup
             print("chosen[\"T{}_R1\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.actTimeTurn_results))#,Turns+1
         elif self.ShowList==4 and self.BigRounds==1:
-            chosen["T{}_E{}".format(self.BigRounds+1,self.Turns-3)]=self.actTimeTurn_results #Projet
-            print("chosen[\"T{}_E2\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.actTimeTurn_results))#,Turns+1
+            chosen["T{}_E{}".format(self.BigRounds+1,self.Turns-2)]=self.actTimeTurn_results #Projet
+            print("chosen[\"T{}_E{}\"]=self.actTimeTurn_results {} #Tour piste 2".format(self.BigRounds+1,self.Turns-2,self.actTimeTurn_results))#,Turns+1
         elif self.ShowList==5 and self.BigRounds==1:
-            chosen["T{}_R{}".format(self.BigRounds+1,self.Turns-4)]=self.actTimeTurn_results #Récup
-            print("chosen[\"T{}_R2\"]=self.actTimeTurn_results {} #Tour piste 1".format(self.BigRounds+1,self.actTimeTurn_results))#,Turns+1
+            chosen["T{}_R{}".format(self.BigRounds+1,self.Turns-3)]=self.actTimeTurn_results #Récup
+            print("chosen[\"T{}_R{}\"]=self.actTimeTurn_results {} #Tour piste 2".format(self.BigRounds+1,self.Turns-3,self.actTimeTurn_results))#,Turns+1
+        else:
+            print("\n\n\n\n\nIndex not avaidable\n\n\n\n\n")
     def debug(c_choice,chosen):
         for i in range(len(c_choice)):
             print("{}={}".format(c_choice[i],chosen[c_choice[i]]))

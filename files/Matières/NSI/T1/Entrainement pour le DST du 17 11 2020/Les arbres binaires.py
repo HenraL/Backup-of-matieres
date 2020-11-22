@@ -146,6 +146,7 @@ class BI:
                     N2.append(n2)
                     n=n1+n2
                     print(n)
+                    return (fibod(n-1)+fibod(n-2))
                 else:
                     return n
                 # return n
