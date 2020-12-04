@@ -1,0 +1,36 @@
+string=str("(('eeee')")
+opbrack=0
+cbrack=0
+move=[]
+error="^"
+spaces=""
+for i in string:
+	if i=="(":
+		opbrack+=-1
+		move.append(opbrack)
+	elif i==")":
+		cbrack+=1
+		move.append(cbrack)
+	else:
+		move.append(0)
+
+if opbrack<cbrack:
+	i=0
+	continue=True
+	while continue==True:
+		if opbrack[len(opbrack)-1]==move[i]:
+			print("string\n{}{}".format(spaces,error))
+			continue=False
+		else:
+			spaces+=" "
+		i+=1
+elif opbrack>cbrack:
+	i=0
+	continue=True
+	while continue==True:
+		if cbrack[len(cbrack)-1]==move[i]:
+			print("string\n{}{}".format(spaces,error))
+			continue=False
+		else:
+			spaces+=" "
+		i+=1
