@@ -1,2 +1,4 @@
 Appart'City|23, rue Victor Hugo|71100|Charlon-sur-Saône|46,752696|4,8440036
-Appart'Hôtel Le Cours Moreau|
+Appart'Hôtel Le Cours Moreau|7,cours Moreau|71000|Mâcon|46,309234|4,8334952
+Auberge de la Chalore|Le Bourg|71400|La petite-Verrière|47,049371|4,1584949
+Auberge de La Croix Blanche|575, route de Bourgogne|
