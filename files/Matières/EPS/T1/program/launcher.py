@@ -1,6 +1,7 @@
 #from Tableau_vers_ligne_de_commande import*
 #from Main_shower import Main_Board
 #from tkinter import*
+from re_redesining_fontselector_aspect import*
 from dumbfontpicker import *
 import os
 
