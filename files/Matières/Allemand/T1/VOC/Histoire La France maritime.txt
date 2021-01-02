@@ -1,0 +1,51 @@
+Quelle est la position de a ZEE française? = La France possède aujourd'hui la deuxième plus vaste ZEE du monde.
+Que signifie les lettres ZEE = Zone économique Exclusive
+Que signifie les lettres DROM = Départements et Régions d'Outre-mer
+Sur quelle superficie s'étend les DROM? = 550 000 km².
+Combien de personne résident dans les DROM? = Environ 2 millions de personnes y résident.
+Quelle est la place du port de Rouen? = Le port de Rouen est le 1er port céréalier de l'Ouest de l'Europe.
+Quelle est la place du port du Havre? = Le port du Havre est le 1er port mondial pour l'exportation de vins et spiritueux.
+Quelle est la place du port de Marseille? = Le port de Marseille est le 1er port de croisière du pays, le 4e méditerranéen.
+Où se trouve la CMA-CGM dans le transport mariitme de conteneurs? = La CMA-CGM est le 4e transporteur mondial pour le transport maritime de conteneurs
+Derrière quelle autre companie se trouve la CMA-CGM? = derrière le danois APM Maersk, l'italo-helvétique MSC et récemment le chinois OOCL.
+Quelle est le poyucrcentage de park éolien dans la mer du Nord? = 75%
+Environ quel pourcentage des récifs et écosystème mondiaux ont été irrémédiablement détruits? = 20%
+DROM = Les DROM sont les Départements et régions d'outre-mer, qui font partie intégrante du territoire français et sur lesquels le droit s'applique au même titre que sur les territoires métropolitains.
+
+Économie maritime = L'économie maritime est l'ensemble des activités économiques liées à l'exploitation ou à l'utilisation des espaces maritimes.
+
+Marge continentale = La marge continentale est une zone sous-marine qui comprend le plateau continental, le talus continental et le glacis continental.
+
+Piraterie = La piraterie est l'ensemble des actes criminels qui se caractérisent par des détournements de navires marchands ou de plaisance, des prises d'otages avec demande de rançon, des attaques d'installations pétrolières offshore.
+
+Ressources énergétiques offshore = Les ressources énergétiques offshore sont des ressources qui se situent dans les espaces marins ou sous-marins.
+
+Ressources halieutiques = Les ressources halieutiques sont des ressources vivantes aquatiques.
+
+Soft power = Le soft power est la puissance d'un État fondée sur son influence culturelle et diplomatique.
+
+ZEE = Une ZEE (Zone économique exclusive) est un espace maritime qui longe les côtes d'un État et qui s'étend jusqu'à 200 milles marins (370 kilomètres) à partir des côtes. Si les côtes de deux pays sont distantes de moins de 400 milles, leurs ZEE se chevauchent.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+C:\Users\Henry PC>if not exist "C:\Users\Henry PC\TeSt". (echo "not exist") else (echo "exist")

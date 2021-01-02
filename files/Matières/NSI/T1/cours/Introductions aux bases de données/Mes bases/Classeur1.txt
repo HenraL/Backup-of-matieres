@@ -1,4 +1,5 @@
-﻿1;Delta de la Rivière des Perles;Hong Kong;65 701 102 hab.
+﻿RANG;VILLE;PAYS;POPULATION
+1;Delta de la Rivière des Perles;Hong Kong;65 701 102 hab.
 2;Tokyo;Japon;42 796 714 hab.
 3;Jakarta (Jabodetabek);Indonésie;35 143 473 hab.
 4;Delhi;Inde;26 454 086 hab.
