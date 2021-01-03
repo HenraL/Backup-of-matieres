@@ -1,0 +1,88 @@
+
+Abenteuerfilm = Film d'aventure
+
+Schauspielerin = Actrice
+
+Berühmt = Célèbre
+
+Fanden = Trouvé
+
+Selbst = Self
+
+Sei = Soyez
+
+Dreinschauen = En regardant
+
+Heiratet = Se marier
+
+Reichen = Atteindre
+
+Eifersüchtig = Jaloux
+
+Verließ = Quitter (au passé)
+
+Entwickelte = Développé
+
+Schiffen = Navires
+
+Boten = Offrir
+
+ablehnte = Rejeté
+
+Beitragen = Contribuer
+
+Erst = Première
+
+Fachleute = Professionnels/Spécialistes
+
+Frequenz-Sprung-Verfahren = Méthde du saut de fréquence
+
+Kabellose Verbindung = Connexion sans fil
+
+erscheinen als = apparaitre comme
+
+ein Filmschauspielerin = une actrice de cinéma.
+
+Technologieforscher = chercheur technologique
+
+Ehemann = mari
+
+
+Wer war Hedy Lamarr?
+    1) Hedys öffentliche Seite:
+        a. Sie war eine berühmte österreichische Filmschauspielerin. Die nach Hollywood gegangen ist.
+        b. Sie sagte, dass um schick zu sein genügte es nur still zu stehen und dum dreinschauen.
+        c. Mann sagte, dass sie eine von den schönsten Frauen der Welt war. Aber ihre Schönheit hat sie gehindert, man sah nur das und nicht die Forscherin dahinter.
+
+    2) Hedys private Seite:
+        a. Sie war eine Technologieforscherin.
+        b. Sie hat viele Erfindungen gemacht.
+        c. Am bekanntesten ist das Frequenz-Sprung-Verfahren.
+        d. Hedy Lamarr hat ihren Ehemann verlassen und ist nach Hollywood gegangen.
+        e. Sie war bekannter als Schauspielerin aber nicht als Erfinderin.
+
+    3) Warum hatte Hedy wohl das Gefühl, nicht ernst genommen zu werden?
+        a. Sie schuf das Frequenz-Sprung-Verfahren und bot es dem US-Militär an, aber das US-Militär lehnte es ab.
+        b. "Jedes Mädchen kann schick sein. Du musst nur still stehen und dumm dreinschauen." 
+        c. Ihre Ehemann wollte nicht, dass sie weiter als Schauspielerin arbeitet.
+
+choisir
+
+
+
+Die Geschichte von Hedy Lamarr klingt wie eine Art Abenteuerfilm. Sie war als Schauspielerin berühmt und viele fanden, sie sei die schönste Frau der Welt. Sie selbst soll aber einmal gesagt haben: "Jedes Mädchen kann schick sein. Du musst nur still stehen und dumm dreinschauen."
+Aber Hedy Lamarr war alles anderes als dumm. Sie interessierte sich für Technik und war auch Erfinderin. Eine ihrer Ideen ist heute noch sehr wichtig. Man braucht sie etwa, um mit dem Handy ins Internet zu gehen, und für das WLAN.
+Geboren wurde sie 1914 in Wien. Als junge Frau heiratete sie einen reichen Mann, der sehr eifersüchtig war und ihr verbot, weiter als Schauspielerin zu arbeiten. Sie verließ ihn und ging nach Hollywood. Dort wurde sie ein Star!
+
+Hedy entwickelte zusammen mit dem Komponisten George Antheil ein "geheimes Kommunikationssystem": das Frequenz-Sprung-Verfahren. Damit konnte man Torpedos steuern, um die deutschen Schiffe im 2. Weltkrieg zu versenken.
+Sie bot ihre Technik der amerikanischen Armee an. Aber die lehnte ab. Schade, denn diese Erfindung hätte zur Kapitulation des Dritten Reiches beitragen können.
+Erst viel später erkannten Fachleute, wie nützlich diese Erfindung war. Heute ist das Frequenz-Sprung-Verfahren ein wichtiger Teil der Mobilkommunikation und für die kabellose Verbindung ins Internet. Hedy Lamarr konnte also viel mehr als still rumstehen und dumm gucken!
+L'histoire d'Hedy Lamarr ressemble à une sorte de film d'aventure. Elle était célèbre en tant qu'actrice et beaucoup pensaient qu'elle était la plus belle femme du monde. Cependant, elle aurait elle-même dit un jour : "Toute fille peut être chic. Tout ce que vous avez à faire, c'est de rester immobile et d'avoir l'air stupide".
+Mais Hedy Lamarr était tout sauf stupide. Elle s'intéressait à la technologie et était également une inventrice. Une de ses idées est encore très importante aujourd'hui. Vous en avez besoin, par exemple, pour aller sur l'internet avec votre téléphone portable, et pour le WLAN (wifi).
+Elle est née à Vienne en 1914. Jeune femme, elle a épousé un homme riche qui était très jaloux et lui a interdit de continuer à travailler en tant qu'actrice. Elle l'a quitté et est partie à Hollywood. Là, elle est devenue une star !
+
+Hedy, en collaboration avec le compositeur George Antheil, a développé un "système de communication secret" : la méthode du saut de fréquence. Cela pourrait être utilisé pour contrôler les torpilles destinées à couler les navires allemands pendant la Seconde Guerre mondiale.
+Elle a offert sa technologie à l'armée américaine. Mais ils ont refusé. C'est dommage, car cette invention aurait pu contribuer à la capitulation du Troisième Reich.
+Ce n'est que bien plus tard que les experts ont réalisé l'utilité de cette invention. Aujourd'hui, le saut de fréquence est un élément important des communications mobiles et des connexions sans fil à l'internet. Hedy Lamarr pouvait donc faire bien plus que de rester immobile et d'avoir l'air stupide !
+
+
