@@ -1,4 +1,5 @@
-color 0A
+color F0 
+REM 0A
 echo off
 cls
 set file1="001 Cour d'Allemand du 02 09 2020.txt"
@@ -31,14 +32,15 @@ set file27="027 Cour d'Allemand du 09 12 2020.txt"
 set file28="028 Exercice d'Allemand du 12 12 2020.txt"
 set file29="029 Cours d'Allemand du 16 12 2020.txt"
 set file30=""
-set file31=""
+@REM set file31="start.bat"
 set files1to10=%file1%,%file2%,%file3%,%file4%,%file5%,%file6%,%file7%,%file8%,%file9%,%file10%
 set files11to20=%file11%,%file12%,%file13%,%file14%,%file15%,%file16%,%file17%,%file18%,%file19%,%file20%
 set files21to30=%file21%,%file22%,%file23%,%file24%,%file25%,%file26%,%file27%,%file28%,%file29%,%file30%
 set files=(%files1to10%,%files11to20%,%files21to30%)
-for %%i in %files% do(
+for %%i in %files% do (
     echo ouverture de %%i
-    start %%i
+    cmd/c %%i
+    REM start %%i
     echo %%i ouvert
 )
-pause
+@REM pause
