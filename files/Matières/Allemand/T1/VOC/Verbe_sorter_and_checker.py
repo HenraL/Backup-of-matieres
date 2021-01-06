@@ -33,8 +33,74 @@ class root:
         self.watermark="{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}".format(chr(169),chr(32),chr(67),chr(114),chr(233),chr(233),chr(32),chr(112),chr(97),chr(114),chr(32),chr(72),chr(101),chr(110),chr(114),chr(121),chr(32),chr(76),chr(101),chr(116),chr(101),chr(108),chr(108),chr(105),chr(101),chr(114))
         self.writecmdcont="cont"
         self.showerWindow="GRAPH"
-        self.listOrd=['caractère: ,code:32', 'caractère:☺,code:9786', 'caractère:☻,code:9787', 'caractère:♥,code:9829', 'caractère:♦,code:9830', 'caractère:♣,code:9827', 'caractère:♠,code:9824', 'caractère:\n,code:10', 'caractère:♫,code:9835', 'caractère:☼,code:9788', 'caractère:►,code:9658', 'caractère:◄,code:9668', 'caractère:↕,code:8597', 'caractère:‼,code:8252', 'caractère:¶,code:182', 'caractère:§,code:167', 'caractère:▬,code:9644', 'caractère:↨,code:8616', 'caractère:↑,code:8593', 'caractère:↓,code:8595', 'caractère:→,code:8594', 'caractère:←,code:8592', 'caractère:∟,code:8735', 'caractère:↔,code:8596', 'caractère:▲,code:9650', 'caractère:▼,code:9660', 'caractère: ,code:32', 'caractère:!,code:33', 'caractère:",code:34', 'caractère:#,code:35', 'caractère:$,code:36', 'caractère:%,code:37', 'caractère:&,code:38', "caractère:',code:39", 'caractère:(,code:40', 'caractère:),code:41', 'caractère:*,code:42', 'caractère:+,code:43', 'caractère:,,code:44', 'caractère:-,code:45', 'caractère:.,code:46', 'caractère:/,code:47', 'caractère:0,code:48', 'caractère:1,code:49', 'caractère:2,code:50', 'caractère:3,code:51', 'caractère:4,code:52', 'caractère:5,code:53', 'caractère:6,code:54', 'caractère:7,code:55', 'caractère:8,code:56', 'caractère:9,code:57', 'caractère::,code:58', 'caractère:;,code:59', 'caractère:<,code:60', 'caractère:=,code:61', 'caractère:>,code:62', 'caractère:?,code:63', 'caractère:@,code:64', 'caractère:A,code:65', 'caractère:B,code:66', 'caractère:C,code:67', 'caractère:D,code:68', 'caractère:E,code:69', 'caractère:F,code:70', 'caractère:G,code:71', 'caractère:H,code:72', 'caractère:I,code:73', 'caractère:J,code:74', 'caractère:K,code:75', 'caractère:L,code:76', 'caractère:M,code:77', 'caractère:N,code:78', 'caractère:O,code:79', 'caractère:P,code:80', 'caractère:Q,code:81', 'caractère:R,code:82', 'caractère:S,code:83', 'caractère:T,code:84', 'caractère:U,code:85', 'caractère:V,code:86', 'caractère:W,code:87', 'caractère:X,code:88', 'caractère:Y,code:89', 'caractère:Z,code:90', 'caractère:[,code:91', 'caractère:\\,code:92', 'caractère:],code:93', 'caractère:^,code:94', 'caractère:_,code:95', 'caractère:`,code:96', 'caractère:a,code:97', 'caractère:b,code:98', 'caractère:c,code:99', 'caractère:d,code:100', 'caractère:e,code:101', 'caractère:f,code:102', 'caractère:g,code:103', 'caractère:h,code:104', 'caractère:i,code:105', 'caractère:j,code:106', 'caractère:k,code:107', 'caractère:l,code:108', 'caractère:m,code:109', 'caractère:n,code:110', 'caractère:o,code:111', 'caractère:p,code:112', 'caractère:q,code:113', 'caractère:r,code:114', 'caractère:s,code:115', 'caractère:t,code:116', 'caractère:u,code:117', 'caractère:v,code:118', 'caractère:w,code:119', 'caractère:x,code:120', 'caractère:y,code:121', 'caractère:z,code:122', 'caractère:{,code:123', 'caractère:|,code:124', 'caractère:},code:125', 'caractère:~,code:126', 'caractère:⌂,code:8962', 'caractère:€,code:8364', 'caractère:\ufffe,code:65534', 'caractère:‚,code:8218', 'caractère:ƒ,code:402', 'caractère:„,code:8222', 'caractère:…,code:8230', 'caractère:†,code:8224', 'caractère:‡,code:8225', 'caractère:ˆ,code:710', 'caractère:‰,code:8240', 'caractère:Š,code:352', 'caractère:‹,code:8249', 'caractère:Œ,code:338', 'caractère:Ž,code:381', 'caractère:‘,code:8216', 'caractère:’,code:8217', 'caractère:“,code:8220', 'caractère:”,code:8221', 'caractère:•,code:8226','caractère:–,code:8211', 'caractère:—,code:8212', 'caractère:˜,code:732', 'caractère:™,code:8482', 'caractère:š,code:353', 'caractère:›,code:8250', 'caractère:œ,code:339', 'caractère:ž,code:382', 'caractère:Ÿ,code:376', 'caractère:\xa0,code:160', 'caractère:¡,code:161', 'caractère:¢,code:162', 'caractère:£,code:163', 'caractère:¤,code:164', 'caractère:¥,code:165', 'caractère:¦,code:166', 'caractère:§,code:167', 'caractère:¨,code:168', 'caractère:©,code:169', 'caractère:ª,code:170', 'caractère:«,code:171', 'caractère:¬,code:172', 'caractère:\xad,code:173', 'caractère:®,code:174', 'caractère:¯,code:175', 'caractère:°,code:176', 'caractère:±,code:177', 'caractère:²,code:178', 'caractère:³,code:179', 'caractère:´,code:180', 'caractère:µ,code:181', 'caractère:¶,code:182', 'caractère:·,code:183', 'caractère:¸,code:184', 'caractère:¹,code:185', 'caractère:º,code:186', 'caractère:»,code:187', 'caractère:¼,code:188', 'caractère:½,code:189', 'caractère:¾,code:190', 'caractère:¿,code:191', 'caractère:À,code:192', 'caractère:Á,code:193', 'caractère:Â,code:194', 'caractère:Ã,code:195', 'caractère:Ä,code:196', 'caractère:Å,code:197', 'caractère:Æ,code:198', 'caractère:Ç,code:199', 'caractère:È,code:200', 'caractère:É,code:201', 'caractère:Ê,code:202', 'caractère:Ë,code:203', 'caractère:Ì,code:204', 'caractère:Í,code:205', 'caractère:Î,code:206', 'caractère:Ï,code:207', 'caractère:Ð,code:208', 'caractère:Ñ,code:209', 'caractère:Ò,code:210', 'caractère:Ó,code:211', 'caractère:Ô,code:212', 'caractère:Õ,code:213', 'caractère:Ö,code:214', 'caractère:×,code:215', 'caractère:Ø,code:216', 'caractère:Ù,code:217', 'caractère:Ú,code:218', 'caractère:Û,code:219', 'caractère:Ü,code:220', 'caractère:Ý,code:221', 'caractère:Þ,code:222', 'caractère:ß,code:223', 'caractère:à,code:224', 'caractère:á,code:225', 'caractère:â,code:226', 'caractère:ã,code:227', 'caractère:ä,code:228', 'caractère:å,code:229', 'caractère:æ,code:230', 'caractère:ç,code:231', 'caractère:è,code:232', 'caractère:é,code:233', 'caractère:ê,code:234', 'caractère:ë,code:235', 'caractère:ì,code:236', 'caractère:í,code:237', 'caractère:î,code:238', 'caractère:ï,code:239', 'caractère:ð,code:240', 'caractère:ñ,code:241', 'caractère:ò,code:242', 'caractère:ó,code:243', 'caractère:ô,code:244', 'caractère:õ,code:245', 'caractère:ö,code:246', 'caractère:÷,code:247', 'caractère:ø,code:248', 'caractère:ù,code:249', 'caractère:ú,code:250', 'caractère:û,code:251', 'caractère:ü,code:252', 'caractère:ý,code:253', 'caractère:þ,code:254', 'caractère:ÿ,code:255']
-        self.listOrd=[{'caractère': ' ', 'code': 32}, {'caractère': '☺', 'code': 9786}, {'caractère': '☻', 'code': 9787}, {'caractère': '♥', 'code': 9829}, {'caractère': '♦', 'code': 9830}, {'caractère': '♣', 'code': 9827}, {'caractère': '♠', 'code': 9824}, {'caractère': '\n', 'code': 10}, {'caractère': '♫', 'code': 9835}, {'caractère': '☼', 'code': 9788}, {'caractère': '►', 'code': 9658}, {'caractère': '◄', 'code': 9668}, {'caractère': '↕', 'code': 8597}, {'caractère': '‼', 'code': 8252}, {'caractère': '¶', 'code': 182}, {'caractère': '§', 'code': 167}, {'caractère': '▬', 'code': 9644}, {'caractère': '↨', 'code': 8616}, {'caractère': '↑', 'code': 8593}, {'caractère': '↓', 'code': 8595}, {'caractère': '→', 'code': 8594}, {'caractère': '←', 'code': 8592}, {'caractère': '∟', 'code': 8735}, {'caractère': '↔', 'code': 8596}, {'caractère': '▲','code': 9650}, {'caractère': '▼', 'code': 9660}, {'caractère': ' ', 'code': 32}, {'caractère': '!', 'code': 33}, {'caractère': '"', 'code': 34}, {'caractère': '#', 'code': 35}, {'caractère': '$', 'code': 36}, {'caractère': '%', 'code': 37}, {'caractère': '&', 'code': 38}, {'caractère': "'", 'code': 39}, {'caractère': '(', 'code': 40}, {'caractère': ')', 'code': 41}, {'caractère': '*', 'code': 42}, {'caractère': '+', 'code': 43}, {'caractère': ',', 'code': 44}, {'caractère': '-', 'code': 45}, {'caractère': '.', 'code': 46}, {'caractère': '/', 'code': 47}, {'caractère': '0', 'code': 48}, {'caractère': '1', 'code': 49}, {'caractère': '2', 'code': 50}, {'caractère': '3', 'code': 51}, {'caractère': '4', 'code': 52}, {'caractère': '5', 'code': 53}, {'caractère': '6', 'code': 54}, {'caractère': '7', 'code': 55}, {'caractère': '8', 'code': 56}, {'caractère': '9', 'code': 57}, {'caractère': ':', 'code': 58}, {'caractère': ';', 'code': 59}, {'caractère': '<', 'code': 60}, {'caractère': '=', 'code': 61}, {'caractère': '>', 'code': 62}, {'caractère': '?', 'code': 63}, {'caractère': '@', 'code': 64}, {'caractère': 'A', 'code': 65}, {'caractère': 'B', 'code': 66}, {'caractère': 'C', 'code': 67}, {'caractère': 'D', 'code': 68}, {'caractère': 'E', 'code': 69}, {'caractère': 'F', 'code': 70}, {'caractère': 'G', 'code': 71}, {'caractère': 'H', 'code': 72}, {'caractère': 'I', 'code': 73}, {'caractère': 'J', 'code': 74}, {'caractère': 'K', 'code': 75}, {'caractère': 'L', 'code': 76}, {'caractère': 'M', 'code': 77}, {'caractère': 'N', 'code': 78}, {'caractère': 'O', 'code': 79}, {'caractère': 'P', 'code': 80}, {'caractère': 'Q', 'code': 81}, {'caractère': 'R', 'code': 82}, {'caractère': 'S', 'code': 83}, {'caractère': 'T', 'code': 84}, {'caractère': 'U', 'code': 85}, {'caractère': 'V', 'code': 86}, {'caractère': 'W', 'code': 87}, {'caractère': 'X', 'code': 88}, {'caractère': 'Y', 'code': 89}, {'caractère': 'Z', 'code': 90}, {'caractère': '[', 'code': 91}, {'caractère': '\\', 'code': 92}, {'caractère':']', 'code': 93}, {'caractère': '^', 'code': 94}, {'caractère': '_', 'code': 95}, {'caractère': '`', 'code': 96}, {'caractère': 'a', 'code': 97}, {'caractère': 'b', 'code': 98}, {'caractère': 'c', 'code': 99}, {'caractère': 'd', 'code': 100}, {'caractère': 'e', 'code': 101}, {'caractère': 'f', 'code': 102}, {'caractère': 'g', 'code':103}, {'caractère': 'h', 'code': 104}, {'caractère': 'i', 'code': 105}, {'caractère': 'j', 'code': 106}, {'caractère': 'k', 'code': 107}, {'caractère': 'l', 'code': 108}, {'caractère': 'm', 'code': 109}, {'caractère': 'n', 'code': 110}, {'caractère': 'o', 'code': 111}, {'caractère': 'p', 'code': 112}, {'caractère': 'q', 'code': 113},{'caractère': 'r', 'code': 114}, {'caractère': 's', 'code': 115}, {'caractère': 't', 'code': 116}, {'caractère': 'u', 'code': 117}, {'caractère': 'v', 'code': 118}, {'caractère': 'w', 'code': 119}, {'caractère': 'x', 'code': 120}, {'caractère': 'y', 'code': 121}, {'caractère': 'z', 'code': 122}, {'caractère': '{', 'code': 123}, {'caractère': '|', 'code': 124}, {'caractère': '}', 'code': 125}, {'caractère': '~', 'code': 126}, {'caractère': '⌂', 'code': 8962}, {'caractère': '€', 'code': 8364}, {'caractère': '\ufffe', 'code': 65534}, {'caractère': '‚', 'code': 8218}, {'caractère': 'ƒ', 'code': 402}, {'caractère': '„', 'code': 8222}, {'caractère': '…', 'code': 8230},{'caractère': '†', 'code': 8224}, {'caractère': '‡', 'code': 8225}, {'caractère': 'ˆ', 'code': 710}, {'caractère': '‰', 'code': 8240}, {'caractère': 'Š', 'code': 352},{'caractère': '‹', 'code': 8249}, {'caractère': 'Œ', 'code': 338}, {'caractère': 'Ž', 'code': 381}, {'caractère': '‘', 'code': 8216}, {'caractère': '’', 'code': 8217},{'caractère': '“', 'code': 8220}, {'caractère': '”', 'code': 8221}, {'caractère': '•', 'code': 8226}, {'caractère': '–', 'code': 8211}, {'caractère': '—', 'code': 8212}, {'caractère': '˜', 'code': 732}, {'caractère': '™', 'code': 8482}, {'caractère': 'š', 'code': 353}, {'caractère': '›', 'code': 8250}, {'caractère': 'œ', 'code': 339}, {'caractère': 'ž', 'code': 382}, {'caractère': 'Ÿ', 'code': 376}, {'caractère': '\xa0', 'code': 160}, {'caractère': '¡', 'code': 161}, {'caractère': '¢', 'code': 162}, {'caractère': '£', 'code': 163}, {'caractère': '¤', 'code': 164}, {'caractère': '¥', 'code': 165}, {'caractère': '¦', 'code': 166}, {'caractère': '§', 'code': 167}, {'caractère': '¨', 'code': 168}, {'caractère': '©', 'code': 169}, {'caractère': 'ª', 'code': 170}, {'caractère': '«', 'code': 171}, {'caractère': '¬', 'code': 172}, {'caractère': '\xad', 'code': 173}, {'caractère': '®', 'code': 174}, {'caractère': '¯', 'code': 175}, {'caractère': '°', 'code': 176}, {'caractère': '±', 'code': 177}, {'caractère': '²', 'code': 178}, {'caractère': '³', 'code': 179}, {'caractère': '´', 'code': 180}, {'caractère': 'µ', 'code': 181}, {'caractère': '¶', 'code': 182}, {'caractère': '·', 'code': 183}, {'caractère': '¸', 'code': 184}, {'caractère': '¹', 'code': 185}, {'caractère': 'º', 'code': 186}, {'caractère': '»', 'code': 187}, {'caractère': '¼', 'code': 188}, {'caractère': '½', 'code': 189}, {'caractère': '¾', 'code': 190}, {'caractère': '¿', 'code': 191}, {'caractère': 'À', 'code': 192}, {'caractère':'Á', 'code': 193}, {'caractère': 'Â', 'code': 194}, {'caractère': 'Ã', 'code': 195}, {'caractère': 'Ä', 'code': 196}, {'caractère': 'Å', 'code': 197}, {'caractère': 'Æ', 'code': 198}, {'caractère': 'Ç', 'code': 199}, {'caractère': 'È', 'code': 200}, {'caractère': 'É', 'code': 201}, {'caractère': 'Ê', 'code': 202}, {'caractère': 'Ë', 'code': 203}, {'caractère': 'Ì', 'code': 204}, {'caractère': 'Í', 'code': 205}, {'caractère': 'Î', 'code': 206}, {'caractère': 'Ï', 'code': 207}, {'caractère': 'Ð', 'code': 208}, {'caractère': 'Ñ', 'code': 209}, {'caractère': 'Ò', 'code': 210}, {'caractère': 'Ó', 'code': 211}, {'caractère': 'Ô', 'code': 212}, {'caractère': 'Õ', 'code': 213}, {'caractère': 'Ö', 'code': 214}, {'caractère': '×', 'code': 215}, {'caractère': 'Ø', 'code': 216}, {'caractère': 'Ù', 'code': 217}, {'caractère': 'Ú', 'code': 218}, {'caractère': 'Û', 'code': 219}, {'caractère': 'Ü', 'code': 220}, {'caractère': 'Ý', 'code': 221}, {'caractère': 'Þ', 'code': 222}, {'caractère': 'ß', 'code': 223}, {'caractère': 'à', 'code': 224}, {'caractère': 'á', 'code': 225}, {'caractère': 'â', 'code': 226}, {'caractère': 'ã', 'code': 227}, {'caractère': 'ä', 'code': 228}, {'caractère': 'å', 'code': 229}, {'caractère': 'æ', 'code': 230}, {'caractère': 'ç', 'code': 231}, {'caractère': 'è', 'code': 232}, {'caractère': 'é', 'code': 233}, {'caractère': 'ê', 'code': 234}, {'caractère': 'ë', 'code': 235}, {'caractère': 'ì', 'code': 236}, {'caractère': 'í', 'code': 237}, {'caractère': 'î', 'code': 238}, {'caractère': 'ï', 'code': 239}, {'caractère': 'ð', 'code': 240}, {'caractère': 'ñ', 'code': 241}, {'caractère': 'ò', 'code': 242}, {'caractère': 'ó', 'code': 243}, {'caractère': 'ô', 'code': 244}, {'caractère': 'õ', 'code': 245}, {'caractère': 'ö', 'code': 246}, {'caractère': '÷', 'code': 247}, {'caractère': 'ø', 'code': 248}, {'caractère':'ù', 'code': 249}, {'caractère': 'ú', 'code': 250}, {'caractère': 'û', 'code': 251}, {'caractère': 'ü', 'code': 252}, {'caractère': 'ý', 'code': 253}, {'caractère': 'þ', 'code': 254}, {'caractère': 'ÿ', 'code': 255}]
+        self.listOrd=[
+            {'caractère': ' ', 'code': 32},{'caractère': '☺', 'code': 9786}, {'caractère': '☻', 'code': 9787},
+                {'caractère': '♥', 'code': 9829}, {'caractère': '♦', 'code': 9830}, {'caractère': '♣', 'code': 9827},
+                {'caractère': '♠', 'code': 9824}, {'caractère': '\n', 'code': 10}, {'caractère': '♫', 'code': 9835},
+                {'caractère': '☼', 'code': 9788}, {'caractère': '►', 'code': 9658}, {'caractère': '◄', 'code': 9668},
+                {'caractère': '↕', 'code': 8597}, {'caractère': '‼', 'code': 8252}, {'caractère': '¶', 'code': 182},
+                {'caractère': '§', 'code': 167}, {'caractère': '▬', 'code': 9644}, {'caractère': '↨', 'code': 8616},
+	            {'caractère': '↑', 'code': 8593}, {'caractère': '↓', 'code': 8595}, {'caractère': '→', 'code': 8594},
+	            {'caractère': '←', 'code': 8592}, {'caractère': '∟', 'code': 8735}, {'caractère': '↔', 'code': 8596},
+	            {'caractère': '▲','code': 9650}, {'caractère': '▼', 'code': 9660}, {'caractère': ' ', 'code': 32}, {'caractère': '!', 'code': 33},
+	            {'caractère': '"', 'code': 34}, {'caractère': '#', 'code': 35}, {'caractère': '$', 'code': 36}, {'caractère': '%', 'code': 37},
+	            {'caractère': '&', 'code': 38}, {'caractère': "'", 'code': 39}, {'caractère': '(', 'code': 40}, {'caractère': ')', 'code': 41},
+	            {'caractère': '*', 'code': 42}, {'caractère': '+', 'code': 43}, {'caractère': ',', 'code': 44}, {'caractère': '-', 'code': 45},
+	            {'caractère': '.', 'code': 46}, {'caractère': '/', 'code': 47}, {'caractère': '0', 'code': 48}, {'caractère': '1', 'code': 49},
+	            {'caractère': '2', 'code': 50}, {'caractère': '3', 'code': 51}, {'caractère': '4', 'code': 52}, {'caractère': '5', 'code': 53},
+	            {'caractère': '6', 'code': 54}, {'caractère': '7', 'code': 55}, {'caractère': '8', 'code': 56}, {'caractère': '9', 'code': 57},
+	            {'caractère': ':', 'code': 58}, {'caractère': ';', 'code': 59}, {'caractère': '<', 'code': 60}, {'caractère': '=', 'code': 61},
+	            {'caractère': '>', 'code': 62}, {'caractère': '?', 'code': 63}, {'caractère': '@', 'code': 64}, {'caractère': 'A', 'code': 65},
+	            {'caractère': 'B', 'code': 66}, {'caractère': 'C', 'code': 67}, {'caractère': 'D', 'code': 68}, {'caractère': 'E', 'code': 69},
+	            {'caractère': 'F', 'code': 70}, {'caractère': 'G', 'code': 71}, {'caractère': 'H', 'code': 72}, {'caractère': 'I', 'code': 73},
+	            {'caractère': 'J', 'code': 74}, {'caractère': 'K', 'code': 75}, {'caractère': 'L', 'code': 76}, {'caractère': 'M', 'code': 77},
+	            {'caractère': 'N', 'code': 78}, {'caractère': 'O', 'code': 79}, {'caractère': 'P', 'code': 80}, {'caractère': 'Q', 'code': 81},
+	            {'caractère': 'R', 'code': 82}, {'caractère': 'S', 'code': 83}, {'caractère': 'T', 'code': 84}, {'caractère': 'U', 'code': 85},
+	            {'caractère': 'V', 'code': 86}, {'caractère': 'W', 'code': 87}, {'caractère': 'X', 'code': 88}, {'caractère': 'Y', 'code': 89},
+	            {'caractère': 'Z', 'code': 90}, {'caractère': '[', 'code': 91}, {'caractère': '\\', 'code': 92}, {'caractère':']', 'code': 93},
+	            {'caractère': '^', 'code': 94}, {'caractère': '_', 'code': 95}, {'caractère': '`', 'code': 96}, {'caractère': 'a', 'code': 97},
+	            {'caractère': 'b', 'code': 98}, {'caractère': 'c', 'code': 99}, {'caractère': 'd', 'code': 100}, {'caractère': 'e', 'code': 101},
+	            {'caractère': 'f', 'code': 102}, {'caractère': 'g', 'code':103}, {'caractère': 'h', 'code': 104}, {'caractère': 'i', 'code': 105},
+	            {'caractère': 'j', 'code': 106}, {'caractère': 'k', 'code': 107}, {'caractère': 'l', 'code': 108}, {'caractère': 'm', 'code': 109},
+	            {'caractère': 'n', 'code': 110}, {'caractère': 'o', 'code': 111}, {'caractère': 'p', 'code': 112}, {'caractère': 'q', 'code': 113},
+	            {'caractère': 'r', 'code': 114}, {'caractère': 's', 'code': 115}, {'caractère': 't', 'code': 116},
+	            {'caractère': 'u', 'code': 117}, {'caractère': 'v', 'code': 118}, {'caractère': 'w', 'code': 119},	
+	            {'caractère': 'x', 'code': 120}, {'caractère': 'y', 'code': 121}, {'caractère': 'z', 'code': 122}, {'caractère': '{', 'code': 123},
+	            {'caractère': '|', 'code': 124}, {'caractère': '}', 'code': 125}, {'caractère': '~', 'code': 126}, {'caractère': '⌂', 'code': 8962},
+	            {'caractère': '€', 'code': 8364}, {'caractère': '\ufffe', 'code': 65534}, {'caractère': '‚', 'code': 8218},
+	            {'caractère': 'ƒ', 'code': 402}, {'caractère': '„', 'code': 8222}, {'caractère': '…', 'code': 8230},
+	            {'caractère': '†', 'code': 8224}, {'caractère': '‡', 'code': 8225}, {'caractère': 'ˆ', 'code': 710},
+	            {'caractère': '‰', 'code': 8240}, {'caractère': 'Š', 'code': 352},{'caractère': '‹', 'code': 8249},
+	            {'caractère': 'Œ', 'code': 338}, {'caractère': 'Ž', 'code': 381}, {'caractère': '‘', 'code': 8216},
+	            {'caractère': '’', 'code': 8217},{'caractère': '“', 'code': 8220}, {'caractère': '”', 'code': 8221},
+	            {'caractère': '•', 'code': 8226}, {'caractère': '–', 'code': 8211}, {'caractère': '—', 'code': 8212},
+	            {'caractère': '˜', 'code': 732}, {'caractère': '™', 'code': 8482}, {'caractère': 'š', 'code': 353},
+	            {'caractère': '›', 'code': 8250}, {'caractère': 'œ', 'code': 339}, {'caractère': 'ž', 'code': 382},
+	            {'caractère': 'Ÿ', 'code': 376}, {'caractère': '\xa0', 'code': 160}, {'caractère': '¡', 'code': 161},
+	            {'caractère': '¢', 'code': 162},{'caractère': '£', 'code': 163}, {'caractère': '¤', 'code': 164}, {'caractère': '¥', 'code': 165},
+	            {'caractère': '¦', 'code': 166}, {'caractère': '§', 'code': 167}, {'caractère': '¨', 'code': 168}, {'caractère': '©', 'code': 169},
+	            {'caractère': 'ª', 'code': 170}, {'caractère': '«', 'code': 171}, {'caractère': '¬', 'code': 172},
+	            {'caractère': '\xad', 'code': 173}, {'caractère': '®', 'code': 174}, {'caractère': '¯', 'code': 175},
+	            {'caractère': '°', 'code': 176}, {'caractère': '±', 'code': 177}, {'caractère': '²', 'code': 178}, {'caractère': '³', 'code': 179},
+	            {'caractère': '´', 'code': 180}, {'caractère': 'µ', 'code': 181}, {'caractère': '¶', 'code': 182}, {'caractère': '·', 'code': 183},
+	            {'caractère': '¸', 'code': 184}, {'caractère': '¹', 'code': 185}, {'caractère': 'º', 'code': 186}, {'caractère': '»', 'code': 187},
+	            {'caractère': '¼', 'code': 188}, {'caractère': '½', 'code': 189}, {'caractère': '¾', 'code': 190}, {'caractère': '¿', 'code': 191},
+	            {'caractère': 'À', 'code': 192}, {'caractère':'Á', 'code': 193}, {'caractère': 'Â', 'code': 194}, {'caractère': 'Ã', 'code': 195},
+	            {'caractère': 'Ä', 'code': 196}, {'caractère': 'Å', 'code': 197}, {'caractère': 'Æ', 'code': 198}, {'caractère': 'Ç', 'code': 199},
+	            {'caractère': 'È', 'code': 200}, {'caractère': 'É', 'code': 201}, {'caractère': 'Ê', 'code': 202}, {'caractère': 'Ë', 'code': 203},
+	            {'caractère': 'Ì', 'code': 204}, {'caractère': 'Í', 'code': 205}, {'caractère': 'Î', 'code': 206}, {'caractère': 'Ï', 'code': 207},
+	            {'caractère': 'Ð', 'code': 208}, {'caractère': 'Ñ', 'code': 209}, {'caractère': 'Ò', 'code': 210}, {'caractère': 'Ó', 'code': 211},
+	            {'caractère': 'Ô', 'code': 212}, {'caractère': 'Õ', 'code': 213}, {'caractère': 'Ö', 'code': 214}, {'caractère': '×', 'code': 215},
+	            {'caractère': 'Ø', 'code': 216}, {'caractère': 'Ù', 'code': 217}, {'caractère': 'Ú', 'code': 218}, {'caractère': 'Û', 'code': 219},
+	            {'caractère': 'Ü', 'code': 220}, {'caractère': 'Ý', 'code': 221}, {'caractère': 'Þ', 'code': 222}, {'caractère': 'ß', 'code': 223},
+	            {'caractère': 'à', 'code': 224}, {'caractère': 'á', 'code': 225}, {'caractère': 'â', 'code': 226}, {'caractère': 'ã', 'code': 227},
+	            {'caractère': 'ä', 'code': 228}, {'caractère': 'å', 'code': 229}, {'caractère': 'æ', 'code': 230}, {'caractère': 'ç', 'code': 231},
+	            {'caractère': 'è', 'code': 232}, {'caractère': 'é', 'code': 233}, {'caractère': 'ê', 'code': 234}, {'caractère': 'ë', 'code': 235},
+	            {'caractère': 'ì', 'code': 236}, {'caractère': 'í', 'code': 237}, {'caractère': 'î', 'code': 238}, {'caractère': 'ï', 'code': 239},
+	            {'caractère': 'ð', 'code': 240}, {'caractère': 'ñ', 'code': 241}, {'caractère': 'ò', 'code': 242}, {'caractère': 'ó', 'code': 243},
+	            {'caractère': 'ô', 'code': 244}, {'caractère': 'õ', 'code': 245}, {'caractère': 'ö', 'code': 246}, {'caractère': '÷', 'code': 247},
+	            {'caractère': 'ø', 'code': 248}, {'caractère':'ù', 'code': 249}, {'caractère': 'ú', 'code': 250}, {'caractère': 'û', 'code': 251},
+	            {'caractère': 'ü', 'code': 252}, {'caractère': 'ý', 'code': 253}, {'caractère': 'þ', 'code': 254}, {'caractère': 'ÿ', 'code': 255}]
     def pause():
         pause=input("Press enter to continue...")
     def srint(t,e,et,s):
@@ -48,34 +114,120 @@ class root:
             print(t,end="{}".format(et))
             sleep(s)
 class get(root):
+    def enter_word(self,sentence,Title,wrbutton):
+        def getContent():
+            self.givenTerm = myEntry.get()
+            TT.destroy()
+        TT=Tk()
+        TT['bg']=self.cleanBackground
+        TT.title("{}".format(Title))
+        #TT.geometry("250x100")
+        #TT.minsize(250,100)
+        #TT.iconbitmap(self.icon)
+        Framemain = Frame(TT, borderwidth=0, relief=GROOVE,bg=self.cleanBackground)
+        Framemain.pack(side=TOP, padx=0, pady=0,fill=X)
+        Frame1 = Frame(Framemain, borderwidth=0, relief=GROOVE,bg=self.cleanBackground)
+        Frame1.pack(side=BOTTOM, padx=0, pady=0,fill=X)
+        Frame2 = Frame(Frame1, borderwidth=0, relief=GROOVE,bg=self.cleanBackground)
+        Frame2.pack(side=TOP, padx=0, pady=0,fill=X)
+        Frame3 = Frame(Frame1, borderwidth=0, relief=GROOVE,bg=self.cleanBackground)
+        Frame3.pack(side=TOP, padx=0, pady=0,fill=X)
+        ST=Label(Framemain, text="{}".format(sentence),wraplength=200,bg=self.cleanBackground)
+        ST.pack(fill=X,pady=0,side=TOP)
+        myEntry = Entry(Frame2, width=40)
+        myEntry.pack(pady=0)
+        btn = Button(Frame3, height=1, width=10, text="{}".format(wrbutton),command=getContent, activeforeground=self.hfq)
+        btn.pack(side=TOP)
+        LC=Label(Frame3,text=self.watermark)
+        LC.pack(side=RIGHT,pady=0)
+        TT.mainloop()
+    def not_entered(self,sentence,second_sentence,rebutton,sentence1or2):
+        TTT=Tk()
+        TTT['bg']=self.cleanBackground
+        if sentence1or2==1:
+            TTT.title("{}".format(sentence))
+        else:
+            TTT.title("{}".format(second_sentence))
+        # TTT.geometry("540x100")
+        # TTT.minsize(540,100)
+        TTT.iconbitmap(self.icon)
+        FrameText=Frame(TTT, borderwidth=1, relief=self.F1T, bg="white")
+        FrameText.pack(fill=X,side=TOP)
+        FrameChoiceButtons=Frame(TTT, borderwidth=1, relief=self.F1T, bg="white")
+        FrameChoiceButtons.pack(fill=X,side=TOP,pady=0.5)
+        FrameQuit=Frame(TTT, borderwidth=1, relief=self.F1T, bg="white")
+        FrameQuit.pack(fill=X, side=TOP,pady=0.5)
+        SubFrameQuit=Frame(FrameQuit, borderwidth=0, relief=self.F1T, bg="white")
+        SubFrameQuit.pack(fill=X, side=BOTTOM, pady=0.5)
+        ST=Label(FrameText, text="{}".format(sentence))
+        ST.pack(fill=X,pady=0)
+        ST=Label(FrameText, text="{}".format(second_sentence))
+        ST.pack(fill=X,pady=0)
+        B3=Button(FrameQuit,text="{}".format(rebutton),command=TTT.destroy, activeforeground=self.hfq)
+        B3.pack(anchor=CENTER, side=TOP,padx=5,pady=0)
+        LC=Label(FrameQuit,text=self.watermark,bg=self.FBG)
+        LC.pack(side=RIGHT,pady=0)
+        TTT.mainloop()
+    def add(froom,part):
+        list=[]
+        for i in range(len(list)):
+            list.append(froom[i][part])
+        return list
     def no_blank_words(self):
-
+        rebutton="Modify my choice"
+        wrbutton="Proceed"
+        sentence="Nothing Entered"
+        second_sentence1="Please enter the meaning of the term."
+        second_sentence2="Please enter the meaning of the definition."
+        mistakes=False
         for i in range(len(self.voc)):
             if self.voc[i]["term"]=="" or self.voc[i]["term"]==None:
                 entred=False
+                mistakes=True
                 while entred==False:
-                    self.voc[i]["term"]=input("No term has been found for {} please enter it:".format(self.voc[i]["definition"]))
+                    # self.voc[i]["term"]=input("No term has been found for {} please enter it:".format(self.voc[i]["definition"]))
+                    get.enter_word("No term has been found for {} please enter it:".format(self.voc[i]["definition"]),"Missing Term",wrbutton)
+                    self.voc[i]["term"]=self.givenTerm
                     if len(self.voc[i]["term"])>0:
                         entred=True
+                    else:
+                        get.not_entered(self,sentence,second_sentence1,rebutton,1)
 
             if self.voc[i]["definition"]=="" or self.voc[i]["definition"]==None:
-                self.voc[i]["definition"]=input("No term has been found for {} please enter it:".format(self.voc[i]["term"]))
                 entred=False
+                mistakes=True
                 while entred==False:
+                    # self.voc[i]["definition"]=input("No term has been found for {} please enter it:".format(self.voc[i]["term"]))
+                    get.enter_word("No term has been found for {} please enter it:".format(self.voc[i]["term"]),"Missing Definition",wrbutton)
+                    self.voc[i]["definition"]=self.givenTerm
                     if len(self.voc[i]["definition"])>0:
                         entred=True
-                    
+                    else:
+                        get.not_entered(self,sentence,second_sentence2,rebutton,1)
+        self.termlist=get.add(self.voc,"term")
+        self.definiton=get.add(self.voc,"definition")
+        self.filename=self.file
+        if mistakes==True:
+            create.File(self,show=0)
+        play.temp(self)
+
     def treater(self):
         f=open(self.file,"r")
         c=f.read()
         f.close()
+        print("Content of file:")
+        print("============================================================================================================================================================================================================================================================================begining of content============================================================================================================================================================================================================================================================================")
+        print(c)
+        print("==============================================================================================================================================================================================================================================================================end of content===============================================================================================================================================================================================================================================================================")
         word=term=definition=buff=""
         content=[]
         for i in c:content.append(str(i))
+        print("============================================================================================================================================================================================================================================================================begining of cleaning============================================================================================================================================================================================================================================================================")
         for i in range(len(content)):
             if content[i]=="\n":
                 definition=word
                 self.voc.append({"term":"{}".format(term),"definition":"{}".format(definition)})
+                print("term : {}, definition : {}".format(term,definition))
                 term=definition=word=""
             elif (content[i]==" " and content[i+1]==self.symbol) or (content[i]==" " and content[i-1]==self.symbol):
                 buff=content[i]
@@ -84,9 +236,11 @@ class get(root):
                 word=""
             else:
                 word+=content[i]
+        print("==============================================================================================================================================================================================================================================================================end of cleaning==============================================================================================================================================================================================================================================================================")
         # print(self.voc)
+        
         get.no_blank_words(self)
-        play.temp(self)
+        # play.temp(self)
     
     def hiddenl():
         entred=False
@@ -229,20 +383,21 @@ class create(root):
         LC=Label(Frame3,text=self.watermark)
         LC.pack(side=RIGHT,pady=0)
         TT.mainloop()
-    def file(self):
+    def File(self,show):
         print("create the file with name and elements")
         f=open(self.filename,"w")
-        for i in range(len(termlist)):
-            f.write("{}{}{}".format(term,separator,definition))
+        for i in range(len(self.termlist)):
+            f.write("{}{}{}".format(self.termlist[i],self.symbol,self.definition[i]))
         f.close()
         f=open(self.filename,"r")
-        print("Résultat:\n{}".format(f.read))
+        print("Résultat:\n{}".format(f.read()))
         f.close()
-        create.finished_message(self)
+        if show==1:
+            create.finished_message(self)
     def name(self):
         """get file name"""
         def getContent():
-            RI.symbol = myEntry.get()
+            RI.filename = myEntry.get()
             TT.destroy()
             get.treater(self)
         TT=Tk()
@@ -328,6 +483,8 @@ class create(root):
         TT.mainloop()
     
 class play(root):
+    def main_Menu(self):
+        print("main_Menu")
     def temp(self):
         c="cont"
         while c=="cont":
