@@ -16,6 +16,7 @@ class root:
         self.abg="gray82" #lightGrey
         self.cleanBackground="white"
         self.voc=[]
+        self.symbf=0
         self.Font="Times_New_Roman"
         self.Size=8
         self.WBG="Orange"
@@ -150,7 +151,7 @@ class get(root):
             TTT.title("{}".format(second_sentence))
         # TTT.geometry("540x100")
         # TTT.minsize(540,100)
-        TTT.iconbitmap(self.icon)
+        # TTT.iconbitmap(self.icon)
         FrameText=Frame(TTT, borderwidth=1, relief=self.F1T, bg="white")
         FrameText.pack(fill=X,side=TOP)
         FrameChoiceButtons=Frame(TTT, borderwidth=1, relief=self.F1T, bg="white")
@@ -169,10 +170,11 @@ class get(root):
         LC.pack(side=RIGHT,pady=0)
         TTT.mainloop()
     def add(froom,part):
-        list=[]
-        for i in range(len(list)):
-            list.append(froom[i][part])
-        return list
+        listWord=[]
+        for i in range(len(froom)):
+            listWord.append(froom[i][part])
+        # print(listWord)
+        return listWord
     def no_blank_words(self):
         rebutton="Modify my choice"
         wrbutton="Proceed"
@@ -186,7 +188,7 @@ class get(root):
                 mistakes=True
                 while entred==False:
                     # self.voc[i]["term"]=input("No term has been found for {} please enter it:".format(self.voc[i]["definition"]))
-                    get.enter_word("No term has been found for {} please enter it:".format(self.voc[i]["definition"]),"Missing Term",wrbutton)
+                    get.enter_word(self,"No term has been found for {} please enter it:".format(self.voc[i]["definition"]),"Missing Term",wrbutton)
                     self.voc[i]["term"]=self.givenTerm
                     if len(self.voc[i]["term"])>0:
                         entred=True
@@ -198,20 +200,23 @@ class get(root):
                 mistakes=True
                 while entred==False:
                     # self.voc[i]["definition"]=input("No term has been found for {} please enter it:".format(self.voc[i]["term"]))
-                    get.enter_word("No term has been found for {} please enter it:".format(self.voc[i]["term"]),"Missing Definition",wrbutton)
+                    get.enter_word(self,"No term has been found for {} please enter it:".format(self.voc[i]["term"]),"Missing Definition",wrbutton)
                     self.voc[i]["definition"]=self.givenTerm
                     if len(self.voc[i]["definition"])>0:
                         entred=True
                     else:
                         get.not_entered(self,sentence,second_sentence2,rebutton,1)
         self.termlist=get.add(self.voc,"term")
-        self.definiton=get.add(self.voc,"definition")
+        self.definition=get.add(self.voc,"definition")
+        print("termlist=",self.termlist)
+        print("definition=",self.definition)
         self.filename=self.file
         if mistakes==True:
             create.File(self,show=0)
         play.temp(self)
 
     def treater(self):
+        self.symbf=0
         f=open(self.file,"r")
         c=f.read()
         f.close()
@@ -229,11 +234,13 @@ class get(root):
                 self.voc.append({"term":"{}".format(term),"definition":"{}".format(definition)})
                 print("term : {}, definition : {}".format(term,definition))
                 term=definition=word=""
+                self.symbf=0
             elif (content[i]==" " and content[i+1]==self.symbol) or (content[i]==" " and content[i-1]==self.symbol):
                 buff=content[i]
-            elif content[i]==self.symbol:
+            elif (content[i]==self.symbol and buff==" ") or (content[int(i-1)]!="«" and content[i]==self.symbol and content[int(i+1)]!="»") or (content[i]==self.symbol and content[int(i-1)]=="" and content[int(i-1)]!="«"):
                 term=word
                 word=""
+                self.symbf=1
             else:
                 word+=content[i]
         print("==============================================================================================================================================================================================================================================================================end of cleaning==============================================================================================================================================================================================================================================================================")
@@ -241,7 +248,6 @@ class get(root):
         
         get.no_blank_words(self)
         # play.temp(self)
-    
     def hiddenl():
         entred=False
         print("You have found a hidden part of the program.")
@@ -289,7 +295,7 @@ class get(root):
         for i in range(doots):
             root.srint(t="{}".format(symbol),e=1,et="",s=0.01)
         print("][Loaded]\n")
-
+    
     def chosenfile(self):
         self.file=self.files[self.filename]
         print(self.file)
@@ -338,6 +344,7 @@ class get(root):
         def chosenFile(*args):
             RI.filename = int(FIILE.get())
             TT.destroy()
+            get.spec_lines(self,)
             get.chosenfile(self)
         TT=Tk()
         # TT.geometry("500x200")
@@ -361,6 +368,13 @@ class get(root):
         bouton=Button(TT, text="Ouvrir", command=chosenFile, activeforeground=self.afg,activebackground=self.abg,bg=self.Tbg,fg=self.Tfg)
         bouton.pack(side=LEFT, padx=5)
         TT.mainloop()
+    def spec_lines(self,file):
+        lines="question"
+        linesignore="qestion"
+        """if yes: get number of lines to ignore"""
+        linestake="question"
+        linesskippafter="question"
+        """ if yes: get numer of lines from endgiven till real end"""
 
 class create(root):
     def finished_message(self):
@@ -387,7 +401,7 @@ class create(root):
         print("create the file with name and elements")
         f=open(self.filename,"w")
         for i in range(len(self.termlist)):
-            f.write("{}{}{}".format(self.termlist[i],self.symbol,self.definition[i]))
+            f.write("{}{}{}\n".format(self.termlist[i],self.symbol,self.definition[i]))
         f.close()
         f=open(self.filename,"r")
         print("Résultat:\n{}".format(f.read()))
