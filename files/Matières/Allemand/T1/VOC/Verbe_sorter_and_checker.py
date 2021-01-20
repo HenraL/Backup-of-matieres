@@ -344,7 +344,7 @@ class get(root):
         def chosenFile(*args):
             RI.filename = int(FIILE.get())
             TT.destroy()
-            get.spec_lines(self,)
+            # get.spec_lines(self,)
             get.chosenfile(self)
         TT=Tk()
         # TT.geometry("500x200")
