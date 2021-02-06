@@ -1,7 +1,7 @@
 from binarytree import*
 import datetime
 date=datetime.datetime.now()
-def pause():pause=input("press enter to continue")
+def pause():pause=input("press enter to continue...")
 def prause(string):
     print(string)
     pause()
@@ -206,6 +206,75 @@ class BI:
                         mini=nb
 
         return mini
+    def recherche_naive(tab,val):
+        for i in range(len(tab)):
+            if tab[i]==val:
+                return i
+        return -1
+    def val_for_recherche_naive():
+        liste=[1,4,32,7,3,9]
+        valeur=7
+        print(BI.recherche_naive(liste,valeur))
+    def tri_selection(tab):
+        for i in range(len(tab)):
+            #trouver le min
+            min=i
+            for j in range(i+1,len(tab)):
+                if tab[min]>tab[j]:
+                    min=j
+            #permuter avec élément indice i
+            tmp=tab[i]
+            tab[i]=tab[min]
+            tab[min]=tmp
+        return tab
+    def val_for_tri_selection():
+        tab=[10,7,3,5,8]
+        print(tri_selection(tab))
+    def tri_insertion(tab):
+        #parcours de 1 à longuer du tableau
+        for i in range(1,len(tab)):
+            k=tab[i]
+            j=i-1
+
+            #recherche emplacement à insérer
+            while j>=0 and k<tab[j]:
+                tab[j+1]=tab[j]
+                j=j-1
+
+            #insertion
+            tab[j+1]=k
+    def val_for_tri_insertion():
+        liste=[98,22,15,32,2,74]
+        BI.tri_insertion(liste)
+        print(liste)
+
+    def recherche_dichotomique(tab,val):
+        gauche=0
+        droite=len(tab)-1
+        while gauche <= droite:
+            milieu=(gauche+droite)//2
+            if tab[milieu]==val:
+                #on a trouvé val dans le tableau
+                #à la position milieu
+                return milieu
+            elif tab[milieu]>val:
+                #on cherche entre gauche et milieu
+                droite=milieu-1
+            else: #on a tab[milieu]<val
+                #on cherche entre milieu +1 et droite
+                gauche=milieu+1
+        #on est sorti de la boucle sans trouver val
+        return -1
+    def val_for_recherche_dichotomique():
+        Tab=[1,3,7,8,12,15,25,37,42]
+        val=14
+        print(BI.recherche_dichotomique(Tab,val))
+        val=12
+        print(BI.recherche_dichotomique(Tab,val))
+    
+
+
+
     # S=[1,2,5,10,20]
     # print(recursiveChange(S,30))
     

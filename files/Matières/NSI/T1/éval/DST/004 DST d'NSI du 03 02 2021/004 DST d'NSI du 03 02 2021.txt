@@ -1,0 +1,55 @@
+"""Je vais me permettre de poser quelques petits éléments pour faciliter la compréhension du code
+Le tableau Promotions (ainsi que ses voisins) sont des fichiers csv en .csv
+Les données dans les tableau sont séparées par: |
+Chaque ligne est déterminées par un saut de ligne (ici le symbole "\n")
+La première ligne des chaque tableau défini les titres des colonnes
+\t correspond à tab (soit ("	"))
+La colonne 0 de chaque tableau est id
+La construction du tableau Promotions est:
+id	enseigne	nom	date_debut	date_fin"""
+
+f=open("Promotions.csv","r")
+content=f.read()
+f.close()
+Table={}
+Temp=[]
+colums=[]
+word=""
+for i in content:
+	if b==0 and i=="\n":
+		for i in range(len(colums)):
+			Table[str(colums[i])]=[]
+		b=1
+	elif b==0 and i=="|":
+		colums.append(word)
+		word=""
+	elif b==1 and i=="\n":
+		for i in range(len(Temp)):
+			Table[colums[i]].append(Temp[i])
+		Temp=[]
+	elif b==1 and i=="|":
+		Temp.append(word)
+		word=""
+	else:
+		word+=str(i)
+
+print("id\tenseigne\tnom")
+for i in range(len(Table[colums[0]])):
+	if Table[colums[1]][i]=="Leclerc":
+		print(i,"\t",Table[colums[1]][i],"\t",Table[colums[2]][i])
+
+
+#actualisation de la table
+f=open("Magasins.csv","w")
+for i in range(len(colums)):
+	if i<len(colums)-1:
+		f.write("{}|".format(colums[i]))
+	else:
+		f.write("{}\n".format(colums[i]))
+for i in range(len(Table[colums[0]])):
+	for b in range(len(colums)):
+		if i<len(colums)-1:
+			f.write("{}|".format(Table[colums[b]][i]))
+		else:
+			f.write("{}\n".format(Table[colums[b]][i]))
+f.close()
