@@ -30,5 +30,42 @@ Text:
 
 
 from 1 to 10
+--
 WORK:
-This person enjoys working hard, finding a lot of meaning in daily activities.
+This person enjoys working hard, finding a lot of meaning in daily activities, wether paid employement or unpaid activities.
+--
+TIME BALANCE:
+This person enjoys keeping a balance between work, family, and social aspects of life, allowing for time for excitement, rest, and stimulation.
+--
+EDUCATION, ARTS & CULTURE:
+This person enjoyes learning. He or she likes to visit museums and other cultural centers, or engage in artisic pursuits.
+--
+ACHIEVEMENT:
+This person like to have people recognize his or her achievements. Being very successful is important to this person.
+--
+MATERIAL WELL-BEING:
+This person likes to have a lot of money and expensive things. It is important for this person to be rich.
+--
+HEALTH:
+This person like to engage in healthy behaviors. Staying physically or mentally fit is important to this person.
+--
+GOOD TIMES:
+This person likes to have a good time, doing things that make him or her feel throughout the day.
+--
+HELPING OTHERS:
+This person likes to care for and help others.
+--
+SECURITY:
+This person likes to avoid anything that might be dangerous. It is important to live in secure surroundings and feel safe.
+--
+NATURE:
+This person likes to spend time in nature. He or she seeks out green spaces, and strives to care for natural resources.
+--
+FAMILY
+This person likes to spend time with his or her family. Filing family needs is important to this person.
+--
+SPIRITUALITY:
+This person feels connected to something higher than him- or herself. Feelings of spirituality or religious or spiritual practices are important to this person.
+--
+OTHER:
+Values not listed here.
