@@ -54,7 +54,7 @@ for i in d:
         #print("temp={}".format(temp))
 if progress=="y":
     print("[Done]")
-liste.append({"indexx":index,"term":"Created by","definition":"Henry Letellier"})
+liste.append({"index":index,"term":"Created by","definition":"Henry Letellier"})
 #add function offer to change parting symbols (, ; \n ...)
 j=input("Enter 0 to just write the list to a file.\nEnter 1 to specifie a specific character to put between the term and definitions:")
 g=input("Enter the name of the file to write the results to:")
