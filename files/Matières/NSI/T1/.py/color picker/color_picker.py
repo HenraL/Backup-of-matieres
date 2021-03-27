@@ -304,6 +304,7 @@ class hhh:
             HI.b=k.get()
             process(HI)
             c.config(bg=HI.color)
+            hex_code.config(text="{}".format(HI.color))
             
             
         TT=Tk()
@@ -337,6 +338,7 @@ class hhh:
         r.pack(side=LEFT)
         hex_code=Entry(Framehex, width=40)
         #hex_code.input(text="ee")
+        
         hex_code.pack(side=RIGHT)
         # r.update
         TT.mainloop()
