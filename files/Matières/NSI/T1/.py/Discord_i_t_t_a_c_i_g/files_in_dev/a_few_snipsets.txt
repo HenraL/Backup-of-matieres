@@ -1,0 +1,49 @@
+def main(wmic,sub):
+ default={}
+ for i in range(len(sub)):
+  print("wmic {} get {}".format(wmic,sub[i]))
+  p = Popen("wmic {} get {}".format(wmic,sub[i]), shell=True, stdin=PIPE, stdout=PIPE, stderr=PIPE)
+  try:
+   print("in Try")
+   c=(p.stdout.read() + p.stderr.read()).decode().split("\n")#[1]
+   print(f"sub[{i}]={c}")
+   default[sub[i]]=c#.pop(0)
+  except:
+   print("except")
+   c=processString(p)
+   print(f"sub[{i}]={c}")
+   default[sub[i]]=c
+ #default[sub[i]]=(p.stdout.read() + p.stderr.read()).decode().split("\n")#[1]
+ return default
+
+def processString(result):
+            p=str(result)
+            word=""
+            A=0
+            for i in p:
+                if i=="\n":# and A==0:
+                    A=1
+                elif i==" ":
+                    A=2
+                elif A==1:
+                    word+=i    
+            return word
+
+
+x=310
+y=200
+a=0
+TT=Tk()
+TT["bg"]="white"
+TT.title("TIME")
+TT.geometry(f"{x}x{y}")
+TT.minsize(x,y)
+FrameText=Frame(TT,borderwidth=0,relief=FLAT,bg="white")
+FrameText.pack(fill=X,side=TOP)
+TITLE=Label(FrameText,text="The amount of time that this window has be open is:",bg="white")
+TITLE.pack(fill=X,pady=0)
+time=Label(FrameText,text=f"{a}",bg="white")
+time.pack(fill=X,pady=0)
+for a in range(200):
+ sleep(0.5)
+ time.config(text=f"{a}")
