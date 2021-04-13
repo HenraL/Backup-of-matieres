@@ -4,11 +4,11 @@ __credits__="Created by © Henry Letellier"
 __Version__="1.0.0.0"
 __To_quote__="__© Henry Letellier__"
 DL0="Theses rules apply for all the files in this folder and sub-files in sub-folders."
-DL1="This file contains a certain amount of variables for gathering info, about a windows computer, it is for educational purpose."
+DL1="This file contains a certain amount of variables for gathering info, about a windows computer, it is for __ educational purpose__."
 DL2="This program is to be used as if and without any guaranty."
 DL3=f"The creator, {__To_quote__}, cannot be held responsible for any damage caused on your computer."
-DL4="This program will do no harm to your computer."
-DL5="This program, although no harm to your computer will be done will still expose sensitive content contained on your windows computer."
+DL4="This program will do __no harm__ to your computer."
+DL5="This program, although no harm to your computer will be done will still expose __ sensitive content__ contained on your windows computer."
 DL6="This program will also expose content from software it has been programmed to search."
 DL7="This program also uses elements from other scripts, which (if the script itself and not the snipsets) could have a negative impact on your computer."
 DL8="This program has does not require any other installation than python itself."
@@ -23,9 +23,10 @@ __Description__=""
 for i in range(len(DL)):__Description__+=f" {DL[i]}\n"
 
 pfonty="Times New Roman"
+#pfonty="Courier New"
 pfontw="normal"
 pfontb="bold"
-pfonts=9
+pfonts=9#10
 BGC="white"
 FGC="black"
 
@@ -53,68 +54,64 @@ def accepted():
 
 def put_in_bold(line,string,var_for_insert,pfonty,pfonts,pfontb,style_index):
     default=[]
-    this=0
-    colum=0
-    bold_index=0
-    ab_index=0
-    bold_word=""
-    the_end=""
-    the_beg=""
-    
+    this=colum=bold_index=ab_index=0
+    bold_word=the_end=the_beg=""
     for b in string:default.append(b)
-    
     b=0
     while b<len(default):
-        
         if this==2:
             the_end+=default[b]
-            
         elif default[b]=="_" and default[b+1]=="_" and this==1:
             ab_index=b+4
             this=2
             b+=1
-            
         elif this==1:
             bold_word+=default[b]
-            
         elif default[b]=="_" and default[b+1]=="_" and this==0:
             bold_index=b+3
             this=1
             b+=1
-            
         else:
-            the_beg+=default[b]
-            
+            the_beg+=default[b] 
         b+=1
-        
-    print(f"line={line}\ndefault=\n{default}\nthis={this}\ncolum={colum}\nbold_index={bold_index}\nab_index={ab_index}\nbold_word={bold_word}\nthe_end={the_end}\nthe_beg={the_beg}""")
-
-    print(f"var_for_insert.insert(float(f\"{line}.{colum}\"),f\"b1 {the_beg}\")")
     var_for_insert.insert(float(f"{line}.{colum}"),f"{the_beg}")
-    
-    #var_for_insert.insert(index=float(f"{line}.{bold_index}"),text=f"{bold_word}\n",tags="boold")
-
-    print(f"var_for_insert.insert(float(f\"{line}.{bold_index}\"),f\"b2 {bold_word}\",f\"boold{style_index}\")")
     var_for_insert.insert(float(f"{line}.{bold_index}"),f"{bold_word}",f"boold{style_index}")
-    
     Test.tag_config(f"boold{style_index}",font=(pfonty,pfonts,pfontb))
-    
-    #Test.tag_config(f"boold{style_index}",background="blue")
-
-    print(f"var_for_insert.insert(float(f\"{line}.{ab_index}\"),f\"b3 {the_end}\\n\",f\"nboold{style_index}\")")
     var_for_insert.insert(float(f"{line}.{ab_index}"),f"{the_end}\n",f"nboold{style_index}")
-    
     Test.tag_config(f"nboold{style_index}",font=(pfonty,pfonts,pfontw))
-    
-    #Test.tag_config(f"nboold{style_index}",background="white")
-    
 def put_in_color(line,colum,string,var_for_insert,style_index,color,BGColor):
-    default=[]
-    this=0
-    for b in string:default.append(b)
     var_for_insert.insert(float(f"{line}.{colum}"),f"{string}\n",f"red{style_index}")
-    Test.tag_config(f"red{style_index}",background=f"{BGColor}",foreground=f"{color}")
-    
+    var_for_insert.tag_config(f"red{style_index}",foreground=f"{color}",background=f"{BGColor}")
+def put_in_bold_and_color(line,string,var_for_insert,pfonty,pfonts,pfontb,style_index,color,BGColor):
+    default=[]
+    this=colum=bold_index=ab_index=0
+    bold_word=the_end=the_beg=""
+    for b in string:default.append(b)
+    b=0
+    while b<len(default):
+        if this==2:
+            the_end+=default[b]
+        elif default[b]=="_" and default[b+1]=="_" and this==1:
+            ab_index=b+4
+            this=2
+            b+=1
+        elif this==1:
+            bold_word+=default[b]
+        elif default[b]=="_" and default[b+1]=="_" and this==0:
+            bold_index=b+3
+            this=1
+            b+=1
+        else:
+            the_beg+=default[b] 
+        b+=1
+    print(f"default={default},this={this},colum={colum},bold_index={bold_index},ab_index={ab_index},bold_word={bold_word},the_end={the_end},the_beg={the_beg}") 
+    var_for_insert.insert(float(f"{line}.{colum}"),f"{the_beg}")#,"bboold{style_index}")
+    #var_for_insert.tag_config(f"bboold{style_index}",font=(pfonty,pfonts,pfontw),foreground=f"{color}",background=f"{BGColor}")
+    var_for_insert.insert(float(f"{line}.{bold_index}"),f"{bold_word}",f"boold{style_index}")
+    var_for_insert.tag_config(f"boold{style_index}",font=(pfonty,pfonts,pfontb),foreground=f"{color}",background=f"{BGColor}")
+    var_for_insert.insert(float(f"{line}.{ab_index}"),f"{the_end}\n",f"nboold{style_index}")
+    var_for_insert.tag_config(f"nboold{style_index}",font=(pfonty,pfonts,pfontw),foreground=f"{color}",background=f"{BGColor}")
+
 x=730
 y=420
 TT=Tk()
@@ -132,35 +129,36 @@ TITLE=Label(FrameText,text="Please read and accept this license before proceedin
 TITLE.pack(fill=X,pady=0)
 Test=Text(
     FrameLicence,
-    bg=BGC,
-    fg=FGC,
+    #bg=BGC,#fg=FGC,
     cursor="X_cursor",
-    state="normal",
-    wrap="word",
+    state="normal",wrap="word",
     exportselection=0,
-    width=500,#37,
-    height=22,
+    width=500,height=22,
     font=(pfonty,pfonts,pfontw),
-    padx=5,
-    pady=5)
+    padx=5,pady=5)
 infoCFG="white"
 infoCBG="black"
-Description=4
+#infoCFG,infoCBG=infoCBG,infoCFG
+print(f"infoCFG={infoCFG},infoCBG={infoCBG}")
+Description=3
 my_list=["About:",f"Version={__Version__}",f"Author={__Author__}",f"Credits={__credits__}"]
-for i in range(len(my_list)):
-    put_in_color(i+1,1,my_list[i],Test,f"a{i}\n",infoCFG,infoCBG)
-put_in_color(i+len(my_list)+1,0,"Description:\n",Test,f"a{i}","Blue","yellow")
+for z in range(len(my_list)):
+    put_in_color(z+1,0,f"{my_list[z]}",Test,f"a{z}",infoCFG,infoCBG)
+put_in_color(1+len(my_list),0,"\n",Test,f"a{1+len(my_list)}",infoCBG,infoCFG)
+put_in_color(2+len(my_list),0,"Description:",Test,f"a{2+len(my_list)}",infoCBG,infoCFG)#\n
 for i in range(len(DL)):
-    if i==2 or i==10:
+    if i==0 or i==2 or i==4 or i==10:
         put_in_bold(i+(len(my_list)+Description),f"{DL[i]}",Test,pfonty,pfonts,pfontb,i)
-    elif i==8:
+    elif i==1 or i==8:
         put_in_color(i+(len(my_list)+Description),0,f"{DL[i]}",Test,i,"red",infoCFG)
+    elif i==3:
+        put_in_bold_and_color(i+(len(my_list)+Description),f"{DL[i]}",Test,pfonty,pfonts,pfontb,i,"red",infoCFG)
     else:
         Test.insert(float(i+(len(my_list)+Description)),f"{DL[i]}\n")
-#for i in range(20):
- #   put_in_color(i+(len(my_list)+Description)+len(DL),0," ",Test,f"z{i}",infoCBG,infoCFG)
+for i in range(20):
+    put_in_color(i+(len(my_list)+Description)+len(DL),0," ",Test,f"z{i}",infoCBG,infoCFG)
     
-#Test.config(state="disabled")
+Test.config(state="disabled")
 Test.pack()
 boutonDeny=Button(FrameButt, text="Refuse", font=(pfonty,pfonts,pfontw), fg=FGC, command=refused)
 boutonDeny.pack(side=LEFT, padx=5)
