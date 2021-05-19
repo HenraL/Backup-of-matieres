@@ -1,0 +1,47 @@
+éolienne:
+P=5mw
+? E fournie pendant t= 8000h
+E=P*/\t
+E=(5*10**6)*8000 #passage du MW en W
+
+P= toujours en W
+
+Mw=10**6W
+GW=10**9W
+
+
+AV et Inc d'une centrale:
+Eolienne
+Vent --> Eol --> elect
+          |
+        Perte
+      thermique
+
+Peu de GES = aspect +++
+
+Inc = rend =30% (intermittent), nécessite du vent
+
+On nous parleras des oiseaux
+
+aswpect + des c nuc:
+dure longtemps, peu de GES, produit +++ energie (notion de fission), cout E = faible
+
+durée de vie entre 50 et 70 ans.
+
+le nuc fournie 70% de l'elect en france
+
+inc:
+déchets radioactifs (stockés généralement en profondeur), démontellement, but dimminuer, entretient élevéé, non renouvellable,
+
+energie fossile = nonrenouvelable, + autre polluants
+
+
+  |AD |PAD |Total
+M |82 |18  |100
+NM|891|900 |9900
+T |973|9027|1000
+
+Nbmalade/tot = 
+F de 40 ans 
+P que F = malade = 82/973 = 0.084
+en % = 0.084*100

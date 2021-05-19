@@ -20,6 +20,16 @@ class pourcent:
     def undo(total_value,perc,Base):
         e=total_value*(perc/Base)
         return f"{total_value}*({perc}/{Base})={e}"
+    def add_inners(lst):
+        unpercentad=0
+        for i in range(len(lst)):
+            unpercentade+=int(lst[i])/100
+        return unpercentade*100
+    def substract_inners(lst,to_take_from):#to_take_from must be given as a percentage
+        unpercentad=to_take_from/100
+        for i in range(len(lst)):
+            unpercentade-=int(lst[i])/100
+        return unpercentade*100
 
 class Puissance:
     def UI(U,I): #primaire
