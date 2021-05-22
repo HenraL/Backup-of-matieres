@@ -1,0 +1,30 @@
+import pygame
+from time import sleep
+
+# people
+sideCharacter1="img/right_character/img/people001.png"
+sideCharacter2="img/right_character/img/people002.png"
+sideCharacter3="img/right_character/img/people003.png"
+sideCharacter4="img/right_character/img/people004.png"
+sideCharacter5="img/right_character/img/people005.png"
+sideCharacter6="img/right_character/img/people006.png"
+sideCharacter7="img/right_character/img/people007.png"
+sideCharacter8="img/right_character/img/people008.png"
+sideCharacter9="img/right_character/img/people009.png"
+sideCharacter10="img/right_character/img/people010.png"
+sideCharacter11="img/right_character/img/people011.png"
+sideCharacter12="img/right_character/img/people012.png"
+sideCharacter13="img/right_character/img/people013.png"
+sideCharacter14="img/right_character/img/people014.png"
+sideCharacter15="img/right_character/img/people015.png"
+sideCharacter16="img/right_character/img/people016.png"
+sideCharacter17="img/right_character/img/people017.png"
+sideCharacter18="img/right_character/img/people018.png"
+sideCharacter19="img/right_character/img/people019.png"
+sideCharacter20="img/right_character/img/people020.png"
+sideCharacter21="img/right_character/img/people021.png"
+sideCharacter22="img/right_character/img/people022.png"
+sideCharacter23="img/right_character/img/people023.png"
+sideCharacter24="img/right_character/img/people024.png"
+sideCharacter25="img/right_character/img/people025.png"
+people=['img/right_character/img/people001.png', 'img/right_character/img/people002.png', 'img/right_character/img/people003.png', 'img/right_character/img/people004.png', 'img/right_character/img/people005.png', 'img/right_character/img/people006.png', 'img/right_character/img/people007.png', 'img/right_character/img/people008.png', 'img/right_character/img/people009.png', 'img/right_character/img/people010.png', 'img/right_character/img/people011.png', 'img/right_character/img/people012.png', 'img/right_character/img/people013.png', 'img/right_character/img/people014.png', 'img/right_character/img/people015.png', 'img/right_character/img/people016.png', 'img/right_character/img/people017.png', 'img/right_character/img/people018.png', 'img/right_character/img/people019.png', 'img/right_character/img/people020.png', 'img/right_character/img/people021.png', 'img/right_character/img/people022.png', 'img/right_character/img/people023.png', 'img/right_character/img/people024.png', 'img/right_character/img/people025.png']

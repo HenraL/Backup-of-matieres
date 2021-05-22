@@ -1,0 +1,1 @@
+x = MsgBox("Tu as 10 minutes pour sauvegarder tes affaire avant qu'il ne s'éteigne.",0+64+4096,"Dodo")

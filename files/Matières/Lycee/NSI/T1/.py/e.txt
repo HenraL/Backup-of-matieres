@@ -1,0 +1,43 @@
+import smtplib    ## Importation du module
+serveur = smtplib.SMTP('smtp.gmail.com', 587)    ## Connexion au serveur sortant (en précisant son nom et son port)
+serveur.starttls()    ## Spécification de la sécurisation
+#serveur.login('hanra.latalliar@gmail.com', '@HENRY290502')    ## Authentification
+serveur.login('letellier.henry@gmail.com', '@HENRY2222')    ## Authentification
+message = "VOTRE MESSAGE"    ## Message à envoyer
+serveur.sendmail('hanra.latalliar@gmail.com', letellier.henry@gmail.com, message)    ## Envoie du message
+serveur.quit()    ## Déconnexion du serveur
+
+#https://codes-sources.commentcamarche.net/source/102473-envoyer-des-mail-gmail-via-python (down)
+
+import sys
+import smtplib
+import email.message
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+import email.message
+expmail = "hanra.latalliar@gmail.com"
+mdp="@HENRY290502"
+destmail = "letellier.henry@gmail.com"
+objet = "objet du mail"
+contenu = input("contenu du mail(deux espace pour sauter une ligne)  py  test").replace('  ','<br>')
+message=contenu.replace('<br>','n')
+
+print(message)
+
+
+if input("envoyer ? (O/N)")=="O"or"o":
+ msg = email.message.Message()
+ msg.add_header('Content-Type','text/html')
+ msg.set_payload('{}'.format(contenu,))
+ s = smtplib.SMTP('smtp.gmail.com',587)
+ s.starttls()
+ try:
+  s.login(destmail,mdp)
+  s.sendmail(expmail, destmail, msg.as_string())
+  s.quit()
+  print('nnnnmessage envoyer avec succés')
+ except:
+  print("nnnnERREUR: mauvais mail ou mot de passe nsinon allez sur [https://myaccount.google.com/lesssecureapps] et activer l'option" )
+ else:
+  #sys.exit()
+  print("Done")

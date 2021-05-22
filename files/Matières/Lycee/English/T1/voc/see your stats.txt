@@ -1,0 +1,749 @@
+
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:22=PhD
+button2:6=The flip of the coin
+button3:0=A binder
+button4:20=Collège
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: A class folder binding loose paper ?
+PhD, The flip of the coin, A binder, Collège ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:0
+button1:1=Un compte rendu
+button2:12=The person whom I wanted to see was absent
+button3:18=Force
+button4:10=Un ministrel
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: A report ?
+Un compte rendu, The person whom I wanted to see was absent, Force, Un ministrel ?
+ganswer:1
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:0
+button1:2=la toussain
+button2:5=To destroy/break a monument
+button3:4=To be revealed/inaugurated
+button4:21=Senior high (School)
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: All Saints Vacation ?
+la toussain, To destroy/break a monument, To be revealed/inaugurated, Senior high (School) ?
+ganswer:1
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:1
+button1:18=Strength
+button2:3=A placement test
+button3:15=Ephemeral art
+button4:17=To adhere
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: un test de niveau ?
+Strength, A placement test, Ephemeral art, To adhere ?
+ganswer:2
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:1
+button1:2=All Saints Vacation
+button2:4=To be unveiled
+button3:11=A tomboy
+button4:0=A binder
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: To be revealed/inaugurated ?
+All Saints Vacation, To be unveiled, A tomboy, A binder ?
+ganswer:2
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:1
+button1:5=To topple a monument
+button2:8=A key question
+button3:1=A report
+button4:17=To adhere
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: To destroy/break a monument ?
+To topple a monument, A key question, A report, To adhere ?
+ganswer:1
+________________________________ end Round 6 Stats ________________________________________
+________________________________ Round 7 Stats ________________________________________
+DATEOREVENT:0
+button1:3=un test de niveau
+button2:6=the second side/the bad aspect
+button3:22=Doctora
+button4:11=Un garçon manqué
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: The flip of the coin ?
+un test de niveau, the second side/the bad aspect, Doctora, Un garçon manqué ?
+ganswer:2
+________________________________ end Round 7 Stats ________________________________________
+________________________________ Round 8 Stats ________________________________________
+DATEOREVENT:1
+button1:7=Wisdom teeth
+button2:16=To bounce
+button3:20=Collège
+button4:17=To adhere
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Dent de sagesse ?
+Wisdom teeth, To bounce, Collège, To adhere ?
+ganswer:1
+________________________________ end Round 8 Stats ________________________________________
+________________________________ Round 9 Stats ________________________________________
+DATEOREVENT:0
+button1:8=Une problématique
+button2:4=To be revealed/inaugurated
+button3:9=La société de consommation
+button4:15=Temporary
+DATEOREVENTT:1
+ansswer:1
+redo:no
+Que s'est-il passé: A key question ?
+Une problématique, To be revealed/inaugurated, La société de consommation, Temporary ?
+ganswer:1
+________________________________ end Round 9 Stats ________________________________________
+________________________________ Round 10 Stats ________________________________________
+DATEOREVENT:0
+button1:2=la toussain
+button2:9=La société de consommation
+button3:15=Temporary
+button4:0=A class folder binding loose paper
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: Consumer society ?
+la toussain, La société de consommation, Temporary, A class folder binding loose paper ?
+ganswer:2
+________________________________ end Round 10 Stats ________________________________________
+________________________________ Round 11 Stats ________________________________________
+DATEOREVENT:1
+button1:12=Whom
+button2:10=A minstrel
+button3:11=A tomboy
+button4:20=Collège
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: Un ministrel ?
+Whom, A minstrel, A tomboy, Collège ?
+ganswer:2
+________________________________ end Round 11 Stats ________________________________________
+________________________________ Round 12 Stats ________________________________________
+DATEOREVENT:1
+button1:4=To be unveiled
+button2:8=A key question
+button3:11=A tomboy
+button4:19=College
+DATEOREVENTT:0
+ansswer:3
+redo:no
+Quand a été: Un garçon manqué ?
+To be unveiled, A key question, A tomboy, College ?
+ganswer:3
+________________________________ end Round 12 Stats ________________________________________
+________________________________ Round 13 Stats ________________________________________
+DATEOREVENT:1
+button1:12=Whom
+button2:8=A key question
+button3:22=PhD
+button4:11=A tomboy
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: The person whom I wanted to see was absent ?
+Whom, A key question, PhD, A tomboy ?
+ganswer:1
+________________________________ end Round 13 Stats ________________________________________
+________________________________ Round 14 Stats ________________________________________
+DATEOREVENT:1
+button1:5=To topple a monument
+button2:13=Who
+button3:16=To bounce
+button4:22=PhD
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: The person who was in the restaurant was nice ?
+To topple a monument, Who, To bounce, PhD ?
+ganswer:2
+________________________________ end Round 14 Stats ________________________________________
+________________________________ Round 15 Stats ________________________________________
+DATEOREVENT:0
+button1:10=Un ministrel
+button2:2=la toussain
+button3:14=Un examen
+button4:16=Rebondir
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: A competitive exam ?
+Un ministrel, la toussain, Un examen, Rebondir ?
+ganswer:3
+________________________________ end Round 15 Stats ________________________________________
+________________________________ Round 16 Stats ________________________________________
+DATEOREVENT:0
+button1:12=The person whom I wanted to see was absent
+button2:9=La société de consommation
+button3:15=Temporary
+button4:7=Dent de sagesse
+DATEOREVENTT:1
+ansswer:3
+redo:no
+Que s'est-il passé: Ephemeral art ?
+The person whom I wanted to see was absent, La société de consommation, Temporary, Dent de sagesse ?
+ganswer:3
+________________________________ end Round 16 Stats ________________________________________
+________________________________ Round 17 Stats ________________________________________
+DATEOREVENT:1
+button1:3=A placement test
+button2:16=To bounce
+button3:22=PhD
+button4:20=Collège
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: Rebondir ?
+A placement test, To bounce, PhD, Collège ?
+ganswer:2
+________________________________ end Round 17 Stats ________________________________________
+________________________________ Round 18 Stats ________________________________________
+DATEOREVENT:0
+button1:11=Un garçon manqué
+button2:17=To agree
+button3:21=Senior high (School)
+button4:8=Une problématique
+DATEOREVENTT:1
+ansswer:2
+redo:no
+Que s'est-il passé: To adhere ?
+Un garçon manqué, To agree, Senior high (School), Une problématique ?
+ganswer:2
+________________________________ end Round 18 Stats ________________________________________
+________________________________ Round 19 Stats ________________________________________
+DATEOREVENT:1
+button1:18=Strength
+button2:2=All Saints Vacation
+button3:1=A report
+button4:15=Ephemeral art
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Force ?
+Strength, All Saints Vacation, A report, Ephemeral art ?
+ganswer:1
+________________________________ end Round 19 Stats ________________________________________
+________________________________ Round 20 Stats ________________________________________
+DATEOREVENT:1
+button1:7=Wisdom teeth
+button2:19=College
+button3:8=A key question
+button4:21=Lycée
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: 1st 4 years of University ?
+Wisdom teeth, College, A key question, Lycée ?
+ganswer:2
+________________________________ end Round 20 Stats ________________________________________
+________________________________ Round 21 Stats ________________________________________
+DATEOREVENT:1
+button1:20=Collège
+button2:0=A binder
+button3:11=A tomboy
+button4:13=Who
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Junior high (school) ?
+Collège, A binder, A tomboy, Who ?
+ganswer:1
+________________________________ end Round 21 Stats ________________________________________
+________________________________ Round 22 Stats ________________________________________
+DATEOREVENT:1
+button1:21=Lycée
+button2:2=All Saints Vacation
+button3:7=Wisdom teeth
+button4:20=Collège
+DATEOREVENTT:0
+ansswer:1
+redo:no
+Quand a été: Senior high (School) ?
+Lycée, All Saints Vacation, Wisdom teeth, Collège ?
+ganswer:1
+________________________________ end Round 22 Stats ________________________________________
+________________________________ Round 23 Stats ________________________________________
+DATEOREVENT:1
+button1:8=A key question
+button2:22=PhD
+button3:16=To bounce
+button4:10=A minstrel
+DATEOREVENTT:0
+ansswer:2
+redo:no
+Quand a été: Doctora ?
+A key question, PhD, To bounce, A minstrel ?
+ganswer:2
+________________________________ end Round 23 Stats ________________________________________
+-------------------------------- end of stats of the 1/10/2020 ----------------------------------------
+
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:0
+button1:0=A class folder binding loose paper
+button2:8=Une problématique
+button3:21=Senior high (School)
+button4:6=the second side/the bad aspect
+DATEOREVENTT:1
+ansswer:1
+redo:no
+What corresponds to:: A binder ?
+A class folder binding loose paper, Une problématique, Senior high (School), the second side/the bad aspect ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:3=A placement test
+button2:1=A report
+button3:20=Collège
+button4:17=To adhere
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is:: Un compte rendu ?
+A placement test, A report, Collège, To adhere ?
+ganswer:2
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:15=Ephemeral art
+button2:2=All Saints Vacation
+button3:20=Collège
+button4:6=The flip of the coin
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is:: la toussain ?
+Ephemeral art, All Saints Vacation, Collège, The flip of the coin ?
+ganswer:2
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:1
+button1:17=To adhere
+button2:21=Lycée
+button3:3=A placement test
+button4:9=Consumer society
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is:: un test de niveau ?
+To adhere, Lycée, A placement test, Consumer society ?
+ganswer:3
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:0
+button1:2=la toussain
+button2:9=La société de consommation
+button3:4=To be revealed/inaugurated
+button4:10=Un ministrel
+DATEOREVENTT:1
+ansswer:3
+redo:no
+What corresponds to:: To be unveiled ?
+la toussain, La société de consommation, To be revealed/inaugurated, Un ministrel ?
+ganswer:3
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:1
+button1:18=Strength
+button2:5=To topple a monument
+button3:9=Consumer society
+button4:7=Wisdom teeth
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is:: To destroy/break a monument ?
+Strength, To topple a monument, Consumer society, Wisdom teeth ?
+ganswer:2
+________________________________ end Round 6 Stats ________________________________________
+________________________________ Round 7 Stats ________________________________________
+DATEOREVENT:1
+button1:6=The flip of the coin
+button2:19=College
+button3:21=Lycée
+button4:7=Wisdom teeth
+DATEOREVENTT:0
+ansswer:1
+redo:no
+What is:: the second side/the bad aspect ?
+The flip of the coin, College, Lycée, Wisdom teeth ?
+ganswer:3
+________________________________ end Round 7 Stats ________________________________________
+________________________________ Round 8 Stats ________________________________________
+DATEOREVENT:0
+button1:5=To destroy/break a monument
+button2:6=the second side/the bad aspect
+button3:7=Dent de sagesse
+button4:10=Un ministrel
+DATEOREVENTT:1
+ansswer:3
+redo:no
+What corresponds to:: Wisdom teeth ?
+To destroy/break a monument, the second side/the bad aspect, Dent de sagesse, Un ministrel ?
+ganswer:3
+________________________________ end Round 8 Stats ________________________________________
+________________________________ Round 9 Stats ________________________________________
+DATEOREVENT:0
+button1:2=la toussain
+button2:8=Une problématique
+button3:14=Un examen
+button4:16=Rebondir
+DATEOREVENTT:1
+ansswer:2
+redo:no
+What corresponds to:: A key question ?
+la toussain, Une problématique, Un examen, Rebondir ?
+ganswer:2
+________________________________ end Round 9 Stats ________________________________________
+________________________________ Round 10 Stats ________________________________________
+DATEOREVENT:1
+button1:0=A binder
+button2:9=Consumer society
+button3:9=Consumer society
+button4:5=To topple a monument
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is:: La société de consommation ?
+A binder, Consumer society, Consumer society, To topple a monument ?
+ganswer:2
+________________________________ end Round 10 Stats ________________________________________
+________________________________ Round 11 Stats ________________________________________
+DATEOREVENT:1
+button1:14=A competitive exam
+button2:0=A binder
+button3:10=A minstrel
+button4:4=To be unveiled
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is:: Un ministrel ?
+A competitive exam, A binder, A minstrel, To be unveiled ?
+ganswer:3
+________________________________ end Round 11 Stats ________________________________________
+________________________________ Round 12 Stats ________________________________________
+DATEOREVENT:0
+button1:17=To agree
+button2:1=Un compte rendu
+button3:11=Un garçon manqué
+button4:21=Senior high (School)
+DATEOREVENTT:1
+ansswer:3
+redo:no
+What corresponds to:: A tomboy ?
+To agree, Un compte rendu, Un garçon manqué, Senior high (School) ?
+ganswer:3
+________________________________ end Round 12 Stats ________________________________________
+________________________________ Round 13 Stats ________________________________________
+DATEOREVENT:1
+button1:2=All Saints Vacation
+button2:12=Whom
+button3:7=Wisdom teeth
+button4:19=College
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is:: The person whom I wanted to see was absent ?
+All Saints Vacation, Whom, Wisdom teeth, College ?
+ganswer:2
+________________________________ end Round 13 Stats ________________________________________
+________________________________ Round 14 Stats ________________________________________
+DATEOREVENT:1
+button1:1=A report
+button2:13=Who
+button3:18=Strength
+button4:2=All Saints Vacation
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is:: The person who was in the restaurant was nice ?
+A report, Who, Strength, All Saints Vacation ?
+ganswer:2
+________________________________ end Round 14 Stats ________________________________________
+________________________________ Round 15 Stats ________________________________________
+DATEOREVENT:1
+button1:14=A competitive exam
+button2:19=College
+button3:10=A minstrel
+button4:9=Consumer society
+DATEOREVENTT:0
+ansswer:1
+redo:no
+What is:: Un examen ?
+A competitive exam, College, A minstrel, Consumer society ?
+ganswer:1
+________________________________ end Round 15 Stats ________________________________________
+________________________________ Round 16 Stats ________________________________________
+DATEOREVENT:0
+button1:11=Un garçon manqué
+button2:0=A class folder binding loose paper
+button3:15=Temporary
+button4:10=Un ministrel
+DATEOREVENTT:1
+ansswer:3
+redo:no
+What corresponds to:: Ephemeral art ?
+Un garçon manqué, A class folder binding loose paper, Temporary, Un ministrel ?
+ganswer:3
+________________________________ end Round 16 Stats ________________________________________
+________________________________ Round 17 Stats ________________________________________
+DATEOREVENT:1
+button1:0=A binder
+button2:16=To bounce
+button3:22=PhD
+button4:10=A minstrel
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is:: Rebondir ?
+A binder, To bounce, PhD, A minstrel ?
+ganswer:2
+________________________________ end Round 17 Stats ________________________________________
+________________________________ Round 18 Stats ________________________________________
+DATEOREVENT:1
+button1:20=Collège
+button2:18=Strength
+button3:17=To adhere
+button4:4=To be unveiled
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is:: To agree ?
+Collège, Strength, To adhere, To be unveiled ?
+ganswer:3
+________________________________ end Round 18 Stats ________________________________________
+________________________________ Round 19 Stats ________________________________________
+DATEOREVENT:0
+button1:18=Force
+button2:20=Junior high (school)
+button3:9=La société de consommation
+button4:4=To be revealed/inaugurated
+DATEOREVENTT:1
+ansswer:1
+redo:no
+What corresponds to:: Strength ?
+Force, Junior high (school), La société de consommation, To be revealed/inaugurated ?
+ganswer:1
+________________________________ end Round 19 Stats ________________________________________
+________________________________ Round 20 Stats ________________________________________
+DATEOREVENT:0
+button1:21=Senior high (School)
+button2:11=Un garçon manqué
+button3:19=1st 4 years of University
+button4:10=Un ministrel
+DATEOREVENTT:1
+ansswer:3
+redo:no
+What corresponds to:: College ?
+Senior high (School), Un garçon manqué, 1st 4 years of University, Un ministrel ?
+ganswer:1
+________________________________ end Round 20 Stats ________________________________________
+________________________________ Round 21 Stats ________________________________________
+DATEOREVENT:1
+button1:8=A key question
+button2:20=Collège
+button3:19=College
+button4:14=A competitive exam
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is:: Junior high (school) ?
+A key question, Collège, College, A competitive exam ?
+ganswer:2
+________________________________ end Round 21 Stats ________________________________________
+________________________________ Round 22 Stats ________________________________________
+DATEOREVENT:0
+button1:21=Senior high (School)
+button2:2=la toussain
+button3:9=La société de consommation
+button4:15=Temporary
+DATEOREVENTT:1
+ansswer:1
+redo:no
+What corresponds to:: Lycée ?
+Senior high (School), la toussain, La société de consommation, Temporary ?
+ganswer:1
+________________________________ end Round 22 Stats ________________________________________
+________________________________ Round 23 Stats ________________________________________
+DATEOREVENT:0
+button1:3=un test de niveau
+button2:5=To destroy/break a monument
+button3:22=Doctora
+button4:17=To agree
+DATEOREVENTT:1
+ansswer:3
+redo:no
+What corresponds to:: PhD ?
+un test de niveau, To destroy/break a monument, Doctora, To agree ?
+ganswer:3
+________________________________ end Round 23 Stats ________________________________________
+-------------------------------- end of stats of the 1/10/2020 ----------------------------------------
+
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:0=A binder
+button2:13=Who
+button3:9=Consumer society
+button4:20=Collège
+DATEOREVENTT:0
+ansswer:1
+redo:no
+What is: A class folder binding loose paper ?
+A binder, Who, Consumer society, Collège ?
+ganswer:1
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:18=Strength
+button2:1=A report
+button3:8=A key question
+button4:6=The flip of the coin
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is: Un compte rendu ?
+Strength, A report, A key question, The flip of the coin ?
+ganswer:2
+________________________________ end Round 2 Stats ________________________________________
+________________________________ Round 3 Stats ________________________________________
+DATEOREVENT:1
+button1:17=To adhere
+button2:4=To be unveiled
+button3:2=All Saints Vacation
+button4:3=A placement test
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is: la toussain ?
+To adhere, To be unveiled, All Saints Vacation, A placement test ?
+ganswer:3
+________________________________ end Round 3 Stats ________________________________________
+________________________________ Round 4 Stats ________________________________________
+DATEOREVENT:1
+button1:3=A placement test
+button2:18=Strength
+button3:20=Collège
+button4:11=A tomboy
+DATEOREVENTT:0
+ansswer:1
+redo:no
+What is: un test de niveau ?
+A placement test, Strength, Collège, A tomboy ?
+ganswer:1
+________________________________ end Round 4 Stats ________________________________________
+________________________________ Round 5 Stats ________________________________________
+DATEOREVENT:1
+button1:6=The flip of the coin
+button2:4=To be unveiled
+button3:1=A report
+button4:2=All Saints Vacation
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is: To be revealed/inaugurated ?
+The flip of the coin, To be unveiled, A report, All Saints Vacation ?
+ganswer:2
+________________________________ end Round 5 Stats ________________________________________
+________________________________ Round 6 Stats ________________________________________
+DATEOREVENT:0
+button1:18=Force
+button2:2=la toussain
+button3:5=To destroy/break a monument
+button4:1=Un compte rendu
+DATEOREVENTT:1
+ansswer:3
+redo:no
+What corresponds to: To topple a monument ?
+Force, la toussain, To destroy/break a monument, Un compte rendu ?
+ganswer:3
+________________________________ end Round 6 Stats ________________________________________
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:6=The flip of the coin
+button2:0=A binder
+button3:7=Wisdom teeth
+button4:15=Ephemeral art
+DATEOREVENTT:0
+ansswer:2
+redo:no
+What is: A class folder binding loose paper ?
+The flip of the coin, A binder, Wisdom teeth, Ephemeral art ?
+ganswer:2
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:17=To adhere
+button2:21=Lycée
+button3:1=A report
+button4:9=Consumer society
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is: Un compte rendu ?
+To adhere, Lycée, A report, Consumer society ?
+ganswer:3
+________________________________ end Round 2 Stats ________________________________________
+-------------------------------- stats of the 1/10/2020 ----------------------------------------
+
+________________________________ Round 1 Stats ________________________________________
+DATEOREVENT:1
+button1:6=The flip of the coin
+button2:11=A tomboy
+button3:0=A binder
+button4:10=A minstrel
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is: A class folder binding loose paper ?
+The flip of the coin, A tomboy, A binder, A minstrel ?
+ganswer:3
+________________________________ end Round 1 Stats ________________________________________
+________________________________ Round 2 Stats ________________________________________
+DATEOREVENT:1
+button1:13=Who
+button2:21=Lycée
+button3:1=A report
+button4:3=A placement test
+DATEOREVENTT:0
+ansswer:3
+redo:no
+What is: Un compte rendu ?
+Who, Lycée, A report, A placement test ?
+ganswer:3
+________________________________ end Round 2 Stats ________________________________________

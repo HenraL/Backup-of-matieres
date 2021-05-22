@@ -1,0 +1,501 @@
+﻿RANG;VILLE;PAYS;POPULATION
+1;Delta de la Rivière des Perles;Hong Kong;65 701 102 hab.
+2;Tokyo;Japon;42 796 714 hab.
+3;Jakarta (Jabodetabek);Indonésie;35 143 473 hab.
+4;Delhi;Inde;26 454 086 hab.
+5;Shanghai;Chine;26 317 104 hab.
+6;Séoul;Corée du Sud;25 525 184 hab.
+7;Mumbai (Bombay);Inde;24 337 933 hab.
+8;Manille;Philippines;24 197 302 hab.
+9;Guangzhou (Canton);Chine;23 426 128 hab.
+10;Beijing (Pékin);Chine;21 542 000 hab.
+11;Osaka-Kyoto-Kobé;Japon;19 777 590 hab.
+12;Bangkok (Krung Thep);Thaïlande;18 927 786 hab.
+13;Dacca;Bangladesh;18 615 648 hab.
+14;Kolkata (Calcutta);Inde;16 681 589 hab.
+15;Karachi;Pakistan;16 625 813 hab.
+16;Téhéran;Iran;15 980 037 hab.
+17;Tianjin;Chine;15 621 200 hab.
+18;Chongqing;Chine;15 384 000 hab.
+19;Istanbul;Turquie;15 067 724 hab.
+20;Hyderabad;Inde;14 731 106 hab.
+21;Chengdu;Chine;14 677 122 hab.
+22;Shantou;Chine;14 251 500 hab.
+23;Xiamen-Quanzhou;Chine;13 764 758 hab.
+24;Hô-Chi-Minh-Ville (Thành phố Hồ Chí Minh);Viêt Nam;13 648 914 hab.
+25;Surabaya (Gerbangkertosusila);Indonésie;13 319 229 hab.
+26;Bangalore;Inde;13 180 744 hab.
+27;Bagdad;Irak;13 034 225 hab.
+28;Chennai (Madras);Inde;12 906 602 hab.
+29;Xi'an;Chine;12 905 600 hab.
+30;Shenzhen;Chine;12 905 000 hab.
+31;Lahore;Pakistan;12 328 075 hab.
+32;Nagoya;Japon;11 321 935 hab.
+33;Wuhan;Chine;10 892 900 hab.
+34;Suzhou;Chine;10 721 900 hab.
+35;Hangzhou;Chine;10 018 000 hab.
+36;Taipei;Taïwan;9 194 775 hab.
+37;Bandung;Indonésie;8 767 734 hab.
+38;Nanjing (Nankin);Chine;8 436 200 hab.
+39;Shenyang;Chine;8 294 171 hab.
+40;Dongguan;Chine;8 254 100 hab.
+41;Kuala Lumpur;Malaisie;8 178 330 hab.
+42;Singapour;Singapour;8 081 299 hab.
+43;Ahmedabad;Inde;8 067 743 hab.
+44;Busan;Corée du Sud;8 050 434 hab.
+45;Islamabad-Rawalpindi;Pakistan;7 902 211 hab.
+46;Faisalabad;Pakistan;7 873 910 hab.
+47;Hanoï (Hà Nội);Viêt Nam;7 588 150 hab.
+48;Hong Kong (Xianggang);Hong Kong;7 374 885 hab.
+49;Yangon (Rangoun);Myanmar (Birmanie);7 360 703 hab.
+50;Semarang;Indonésie;7 242 987 hab.
+51;Riyad;Arabie saoudite;6 920 365 hab.
+52;Surate;Inde;6 635 001 hab.
+53;Qingdao (Tsingtao);Chine;6 352 500 hab.
+54;Pune;Inde;6 226 959 hab.
+55;Amman;Jordanie;6 101 172 hab.
+56;Colombo;Sri Lanka;6 080 926 hab.
+57;Surakarta;Indonésie;5 984 519 hab.
+58;Zhengzhou;Chine;5 810 000 hab.
+59;Visakhapatnam;Inde;5 618 000 hab.
+60;Ankara;Turquie;5 503 985 hab.
+61;Doubaï;Émirats arabes unis;5 429 549 hab.
+62;Changsha;Chine;5 288 800 hab.
+63;Harbin;Chine;5 282 093 hab.
+64;Medan;Indonésie;5 189 241 hab.
+65;Kaboul;Afghanistan;5 029 850 hab.
+66;Moultan (Multan);Pakistan;4 745 109 hab.
+67;Koweït;Koweït;4 727 665 hab.
+68;Jinan;Chine;4 693 700 hab.
+69;Kunming;Chine;4 677 200 hab.
+70;Zibo;Chine;4 412 016 hab.
+71;Changchun;Chine;4 361 100 hab.
+72;"Izmir (İzmir ; Smyrne)";Turquie;4 320 519 hab.
+73;Shijiazhuang;Chine;4 303 700 hab.
+74;Fukuoka-Kitakyushu;Japon;4 293 873 hab.
+75;Peshawar;Pakistan;4 269 079 hab.
+76;Nanchang;Chine;4 171 926 hab.
+77;Chittagong;Bangladesh;4 119 026 hab.
+78;Dalian;Chine;4 087 733 hab.
+79;Djeddah;Arabie saoudite;4 082 184 hab.
+80;Taichung - Changhua;Taïwan;4 054 385 hab.
+81;Yogyakarta;Indonésie;4 010 436 hab.
+82;Adana-Mersin;Turquie;3 975 522 hab.
+83;Tel Aviv-Jaffa (Gush Dan);Israël;3 954 570 hab.
+84;Hefei;Chine;3 865 000 hab.
+85;Bassorah;Irak;3 802 881 hab.
+86;Anshan-Liaoyang;Chine;3 745 884 hab.
+87;Damas;Syrie;3 688 278 hab.
+88;Kanpur;Inde;3 627 313 hab.
+89;Kaohsiung;Taïwan;3 615 163 hab.
+90;Ispahan;Iran;3 569 639 hab.
+91;Ürümqi (Ourumtsi);Chine;3 550 000 hab.
+92;Wuxi;Chine;3 542 319 hab.
+93;Taiyuan;Chine;3 525 300 hab.
+94;Guiyang;Chine;3 483 100 hab.
+95;Pyongyang;Corée du Nord;3 471 773 hab.
+96;Tachkent;Ouzbékistan;3 423 283 hab.
+97;Katmandou;Népal;3 414 996 hab.
+98;Daegu;Corée du Sud;3 384 253 hab.
+99;Tangshan;Chine;3 355 687 hab.
+100;Phnom Penh;Cambodge;3 324 918 hab.
+101;Changzhou;Chine;3 290 918 hab.
+102;Jaipur;Inde;3 210 570 hab.
+103;Hyderâbâd;Pakistan;3 192 605 hab.
+104;Lucknow;Inde;3 089 651 hab.
+105;Fuzhou;Chine;3 061 000 hab.
+106;Mechhed (Mashhad);Iran;3 001 184 hab.
+107;Bursa;Turquie;2 994 521 hab.
+108;Lanzhou;Chine;2 989 600 hab.
+109;Sanaa;Yémen;2 957 392 hab.
+110;Gujranwala;Pakistan;2 948 936 hab.
+111;Beyrouth;Liban;2 916 776 hab.
+112;Cebu;Philippines;2 849 213 hab.
+113;Bakou;Azerbaïdjan;2 836 085 hab.
+114;Patna;Inde;2 803 131 hab.
+115;Malang;Indonésie;2 795 209 hab.
+116;Sapporo;Japon;2 622 978 hab.
+117;Nagpur;Inde;2 607 981 hab.
+118;Palembang;Indonésie;2 541 847 hab.
+119;Cirebon;Indonésie;2 541 830 hab.
+120;Davao;Philippines;2 516 216 hab.
+121;Antalya;Turquie;2 426 356 hab.
+122;George Town (Penang);Malaisie;2 412 586 hab.
+123;Dammam;Arabie saoudite;2 407 603 hab.
+124;Johor Bahru;Malaisie;2 400 520 hab.
+125;Mardan;Pakistan;2 373 061 hab.
+126;Doha;Qatar;2 365 356 hab.
+127;Quetta;Pakistan;2 275 699 hab.
+128;Macassar (Ujung Pandang);Indonésie;2 225 048 hab.
+129;Denpasar;Indonésie;2 223 070 hab.
+130;Indore;Inde;2 167 447 hab.
+131;Konya;Turquie;2 161 303 hab.
+132;Coimbatore;Inde;2 151 466 hab.
+133;Kochi;Inde;2 117 990 hab.
+134;Haïphong (Hải Phòng);Viêt Nam;2 103 500 hab.
+135;Mirat (Meerut);Inde;2 086 194 hab.
+136;Daejeon;Corée du Sud;2 037 823 hab.
+137;Mandalay;Myanmar (Birmanie);2 034 083 hab.
+138;Kozhikode;Inde;2 030 519 hab.
+139;Erevan;Arménie;1 980 000 hab.
+140;Jilin;Chine;1 975 803 hab.
+141;Gaziantep;Turquie;1 974 244 hab.
+142;La Mecque;Arabie saoudite;1 969 861 hab.
+143;Dandong-Sinŭiju (Chine - Corée du Nord);Chine;1 947 741 hab.
+144;Gaza;Palestine;1 943 398 hab.
+145;"Sanliurfa (Şanlıurfa ; Urfa)";Turquie;1 940 627 hab.
+146;Abou Dabi;Émirats arabes unis;1 935 234 hab.
+147;Banjarmasin;Indonésie;1 904 427 hab.
+148;Taïnan;Taïwan;1 886 033 hab.
+149;Bhopal;Inde;1 883 381 hab.
+150;Hiroshima;Japon;1 882 601 hab.
+151;Thrissur;Inde;1 854 783 hab.
+152;Nashik;Inde;1 832 195 hab.
+153;"Izmit (İzmit ; Kocaeli)";Turquie;1 830 772 hab.
+154;Vadodara;Inde;1 817 191 hab.
+155;Almaty;Kazakhstan;1 797 431 hab.
+156;Irbid;Jordanie;1 770 158 hab.
+157;Aden;Yémen;1 760 923 hab.
+158;Rongcheng;Chine;1 755 437 hab.
+159;Zhanjiang;Chine;1 753 235 hab.
+160;Arbil (Erbil);Irak;1 751 636 hab.
+161;Sendai;Japon;1 749 503 hab.
+162;Agra;Inde;1 746 467 hab.
+163;Alep;Syrie;1 740 622 hab.
+164;Ludhiana;Inde;1 701 212 hab.
+165;Malappuram;Inde;1 698 645 hab.
+166;Gwangju;Corée du Sud;1 694 454 hab.
+167;Thiruvananthapuram;Inde;1 687 406 hab.
+168;Diyarbakir (Diyarbakır);Turquie;1 673 119 hab.
+169;Nanning;Chine;1 668 974 hab.
+170;Bhubaneswar;Inde;1 666 429 hab.
+171;Luoyang;Chine;1 658 261 hab.
+172;Xuzhou;Chine;1 655 875 hab.
+173;Kannur;Inde;1 642 892 hab.
+174;Yinchuan;Chine;1 640 400 hab.
+175;Shizuoka;Japon;1 621 685 hab.
+176;Yancheng;Chine;1 615 717 hab.
+177;Ta'izz (Taïz);Yémen;1 615 222 hab.
+178;Khulna;Bangladesh;1 611 731 hab.
+179;Cần Thơ;Viêt Nam;1 603 543 hab.
+180;Douchanbé;Tadjikistan;1 600 100 hab.
+181;Shiraz;Iran;1 565 572 hab.
+182;Tabriz;Iran;1 558 693 hab.
+183;Antioche (Antakya);Turquie;1 555 165 hab.
+184;Baotou;Chine;1 533 926 hab.
+185;Ulsan;Corée du Sud;1 516 703 hab.
+186;Varanasi (Bénarès);Inde;1 510 007 hab.
+187;Manama;Bahreïn;1 505 555 hab.
+188;Rajkot;Inde;1 505 231 hab.
+189;Ipoh;Malaisie;1 499 009 hab.
+190;Vijayawada;Inde;1 491 202 hab.
+191;Sukkur;Pakistan;1 487 903 hab.
+192;Bandar Lampung;Indonésie;1 482 960 hab.
+193;Huainan;Chine;1 481 291 hab.
+194;Oulan-Bator;Mongolie;1 465 379 hab.
+195;Madurai;Inde;1 462 420 hab.
+196;Mascate;Oman;1 459 249 hab.
+197;Tbilissi;Géorgie;1 447 033 hab.
+198;Zhangjiakou;Chine;1 440 407 hab.
+199;Pattaya - Chonburi;Thaïlande;1 421 425 hab.
+200;Handan;Chine;1 420 730 hab.
+201;Pingxiang;Chine;1 411 095 hab.
+202;Qiqihar;Chine;1 411 011 hab.
+203;Manisa;Turquie;1 396 945 hab.
+204;Macao (Aomen);Chine;1 394 336 hab.
+205;Datong;Chine;1 390 461 hab.
+206;Nadjaf;Irak;1 389 537 hab.
+207;Xinyang;Chine;1 378 700 hab.
+208;Cagayán de Oro;Philippines;1 376 343 hab.
+209;Médine;Arabie saoudite;1 374 567 hab.
+210;Kayseri;Turquie;1 358 980 hab.
+211;Achgabat;Turkménistan;1 341 608 hab.
+212;Jamshedpur;Inde;1 337 131 hab.
+213;Batam;Indonésie;1 336 252 hab.
+214;Abbottabad;Pakistan;1 332 912 hab.
+215;Ningbo;Chine;1 325 422 hab.
+216;Asansol;Inde;1 317 369 hab.
+217;Chiang Mai;Thaïlande;1 310 910 hab.
+218;Okayama;Japon;1 305 335 hab.
+219;Jérusalem Est (quartier de Jérusalem);Palestine;1 300 968 hab.
+220;Samsun;Turquie;1 295 927 hab.
+221;Bengbu;Chine;1 282 989 hab.
+222;Srinagar;Inde;1 273 312 hab.
+223;Wenzhou;Chine;1 272 671 hab.
+224;Allahabad;Inde;1 272 612 hab.
+225;Jabalpur;Inde;1 270 321 hab.
+226;Mataram;Indonésie;1 265 090 hab.
+227;Kirkouk;Irak;1 255 927 hab.
+228;"Jérusalem (sauf Jérusalem Est; en Palestine)";Israël;1 254 200 hab.
+229;Hama;Syrie;1 236 854 hab.
+230;Hamamatsu;Japon;1 234 889 hab.
+231;Tegal;Indonésie;1 233 433 hab.
+232;Maisuru;Inde;1 230 039 hab.
+233;Baoding;Chine;1 227 298 hab.
+234;Hofuf;Arabie saoudite;1 220 655 hab.
+235;Dhanbad;Inde;1 210 235 hab.
+236;Amritsar;Inde;1 206 918 hab.
+237;Qom;Iran;1 201 158 hab.
+238;Balikesir (Balıkesir);Turquie;1 196 176 hab.
+239;Aurangabad;Inde;1 195 592 hab.
+240;Ahvaz;Iran;1 184 788 hab.
+241;Hohhot;Chine;1 177 519 hab.
+242;Benxi;Chine;1 176 035 hab.
+243;Bahawalpur;Pakistan;1 171 258 hab.
+244;Xianyang;Chine;1 166 762 hab.
+245;Naypyidaw;Myanmar (Birmanie);1 160 242 hab.
+246;Daqing;Chine;1 154 922 hab.
+247;Kerbala;Irak;1 151 150 hab.
+248;Sialkot;Pakistan;1 143 362 hab.
+249;Jodhpur;Inde;1 137 815 hab.
+250;Taëf;Arabie saoudite;1 135 356 hab.
+251;Ángeles;Philippines;1 132 933 hab.
+252;Sholapur;Inde;1 128 884 hab.
+253;Ranchi;Inde;1 126 741 hab.
+254;Raipur;Inde;1 122 555 hab.
+255;Kahramanmaras (Kahramanmaraş);Turquie;1 112 634 hab.
+256;Kollam;Inde;1 110 005 hab.
+257;Bhilai;Inde;1 107 012 hab.
+258;Gwalior;Inde;1 101 981 hab.
+259;Van;Turquie;1 100 190 hab.
+260;Sargodha;Pakistan;1 091 045 hab.
+261;Zhenjiang;Chine;1 068 313 hab.
+262;Aydin (Aydın);Turquie;1 068 260 hab.
+263;Taian;Chine;1 052 401 hab.
+264;Haïfa;Israël;1 050 000 hab.
+265;Liuzhou;Chine;1 047 420 hab.
+266;Đà Nẵng;Viêt Nam;1 046 876 hab.
+267;Jeonju;Corée du Sud;1 042 484 hab.
+268;Guwahati;Inde;1 038 071 hab.
+269;Samarinda;Indonésie;1 037 300 hab.
+270;Chandigarh;Inde;1 033 671 hab.
+271;Rahim Yar Khan;Pakistan;1 032 636 hab.
+272;Noursoultan (Astana);Kazakhstan;1 029 556 hab.
+273;Huaibei;Chine;1 021 845 hab.
+274;Tiruchirapalli;Inde;1 021 717 hab.
+275;Kozhikkod;Inde;1 015 681 hab.
+276;Kota;Inde;1 001 365 hab.
+277;Padang;Indonésie;1 000 096 hab.
+278;Kohat;Pakistan;993 874 hab.
+279;Hsinchu;Taïwan;984 818 hab.
+280;Bichkek;Kirghizistan;980 400 hab.
+281;Adapazari (Adapazarı);Turquie;976 948 hab.
+282;Hilla;Irak;970 141 hab.
+283;Kermanshah;Iran;946 651 hab.
+284;Iloilo-Guimaras;Philippines;946 146 hab.
+285;Khodjent;Tadjikistan;931 900 hab.
+286;Malacca;Malaisie;901 700 hab.
+287;Diwaniya;Irak;900 927 hab.
+288;Kasur;Pakistan;890 835 hab.
+289;Râjshâhî;Bangladesh;878 471 hab.
+290;Kota Kinabalu;Malaisie;877 889 hab.
+291;Zamboanga;Philippines;861 799 hab.
+292;Nassiriya;Irak;860 235 hab.
+293;Chimkent;Kazakhstan;854 466 hab.
+294;Balikpapan;Indonésie;852 046 hab.
+295;Souleimaniyé;Irak;851 143 hab.
+296;Tripoli;Liban;849 918 hab.
+297;Cheongju;Corée du Sud;846 650 hab.
+298;Eskisehir (Eskişehir);Turquie;844 842 hab.
+299;Niigata;Japon;835 326 hab.
+300;Okara;Pakistan;831 790 hab.
+301;Gujrat;Pakistan;827 396 hab.
+302;Vientiane;Laos;820 940 hab.
+303;Seremban;Malaisie;806 920 hab.
+304;Naga;Philippines;799 955 hab.
+305;Bacolod;Philippines;791 019 hab.
+306;Chiayi;Taïwan;785 194 hab.
+307;Pohang;Corée du Sud;784 645 hab.
+308;Lattaquié;Syrie;781 119 hab.
+309;Khairpur;Pakistan;775 850 hab.
+310;Namangan;Ouzbékistan;760 331 hab.
+311;Al-Aïn;Émirats arabes unis;738 481 hab.
+312;Suncheon;Corée du Sud;724 270 hab.
+313;Mossoul;Irak;721 096 hab.
+314;Al Hudaydah;Yémen;714 523 hab.
+315;Bouraïda;Arabie saoudite;708 869 hab.
+316;Larkana;Pakistan;701 637 hab.
+317;Hamhung;Corée du Nord;699 102 hab.
+318;Samarcande;Ouzbékistan;698 729 hab.
+319;Chongjin;Corée du Nord;698 445 hab.
+320;Mingora;Pakistan;695 900 hab.
+321;Muzaffargarh;Pakistan;694 771 hab.
+322;Kuching;Malaisie;684 112 hab.
+323;Kumamoto;Japon;677 669 hab.
+324;Orumieh;Iran;662 734 hab.
+325;Oita;Japon;654 213 hab.
+326;Tabouk;Arabie saoudite;653 466 hab.
+327;Andijan;Ouzbékistan;650 002 hab.
+328;Rangpur;Bangladesh;649 865 hab.
+329;Zāhedān;Iran;640 031 hab.
+330;Pégou (Bago);Myanmar (Birmanie);636 721 hab.
+331;Hérât;Afghanistan;632 206 hab.
+332;Cheonan;Corée du Sud;630 100 hab.
+333;Bahawalnagar;Pakistan;621 096 hab.
+334;Toyohashi;Japon;615 309 hab.
+335;Ferghana - Marguilan;Ouzbékistan;613 684 hab.
+336;Resht;Iran;612 516 hab.
+337;Baguio;Philippines;611 316 hab.
+338;Kagoshima;Japon;610 820 hab.
+339;Kuantan;Malaisie;607 778 hab.
+340;Wonsan;Corée du Nord;606 521 hab.
+341;Alor Setar;Malaisie;605 523 hab.
+342;Jhang;Pakistan;598 190 hab.
+343;General Santos;Philippines;594 446 hab.
+344;Khamis Mushait;Arabie saoudite;590 251 hab.
+345;Tando Adam Khan;Pakistan;588 405 hab.
+346;Kuala Terengganu;Malaisie;586 317 hab.
+347;Pondichéry;Inde;583 576 hab.
+348;Kota Bahru;Malaisie;577 301 hab.
+349;Kermān;Iran;573 449 hab.
+350;Mazâr-e Charîf;Afghanistan;567 271 hab.
+351;Khanewal;Pakistan;564 076 hab.
+352;Amara;Irak;550 542 hab.
+353;Dera Ghazi Khan;Pakistan;547 855 hab.
+354;Al Moukalla;Yémen;531 205 hab.
+355;Sunchon;Corée du Nord;526 738 hab.
+356;Sylhet;Bangladesh;526 412 hab.
+357;Matsuyama;Japon;525 051 hab.
+358;Wakayama;Japon;521 990 hab.
+359;Sahiwal;Pakistan;517 120 hab.
+360;Banda Aceh;Indonésie;513 698 hab.
+361;Kut;Irak;509 201 hab.
+362;Kandahâr;Afghanistan;506 794 hab.
+363;Burewala;Pakistan;505 703 hab.
+364;Karaganda;Kazakhstan;504 308 hab.
+365;Sandakan;Malaisie;501 195 hab.
+366;Hamadān;Iran;498 672 hab.
+367;Nawabshah;Pakistan;489 337 hab.
+368;Bakouba;Irak;487 674 hab.
+369;Batangas;Philippines;486 595 hab.
+370;Dahuk;Irak;479 587 hab.
+371;Magwe (Magway);Myanmar (Birmanie);477 429 hab.
+372;Haïl;Arabie saoudite;475 005 hab.
+373;Arāk;Iran;471 770 hab.
+374;Jeju;Corée du Sud;469 279 hab.
+375;Ramadi;Irak;465 853 hab.
+376;Udon Thani;Thaïlande;455 329 hab.
+377;Jinju;Corée du Sud;454 081 hab.
+378;Jubail;Arabie saoudite;448 429 hab.
+379;Hafar Al-Batin;Arabie saoudite;447 283 hab.
+380;Aktioubé;Kazakhstan;445 116 hab.
+381;Nakhon Ratchasima;Thaïlande;444 023 hab.
+382;Gojra;Pakistan;441 930 hab.
+383;Taraz;Kazakhstan;438 724 hab.
+384;Al Khardj;Arabie saoudite;435 461 hab.
+385;Nagasaki;Japon;429 110 hab.
+386;Bandar-e Abbas;Iran;426 353 hab.
+387;Mirpur Khas;Pakistan;425 752 hab.
+388;Chiniot;Pakistan;422 538 hab.
+389;Abha;Arabie saoudite;421 921 hab.
+390;Pa-An (Hpa-an);Myanmar (Birmanie);421 575 hab.
+391;Gumi;Corée du Sud;420 320 hab.
+392;Samawa;Irak;420 000 hab.
+393;Comilla;Bangladesh;419 623 hab.
+394;Batu Pahat (Bandar Penggaram);Malaisie;417 458 hab.
+395;Pokhara;Népal;414 141 hab.
+396;Myitkyina;Myanmar (Birmanie);413 315 hab.
+397;Öskemen;Kazakhstan;411 069 hab.
+398;Tongi;Bangladesh;406 420 hab.
+399;Hafizabad;Pakistan;402 851 hab.
+400;Bogra;Bangladesh;400 983 hab.
+401;Kluang;Malaisie;397 825 hab.
+402;Tawau;Malaisie;397 673 hab.
+403;Nha Trang;Viêt Nam;392 279 hab.
+404;Kulob;Tadjikistan;392 100 hab.
+405;Pavlodar;Kazakhstan;391 588 hab.
+406;Lhassa;Chine;390 756 hab.
+407;Mymensingh;Bangladesh;389 918 hab.
+408;Daşoguz (Dachogouz);Turkménistan;389 603 hab.
+409;Barisal;Bangladesh;385 093 hab.
+410;Nampho;Corée du Nord;383 574 hab.
+411;Dadu;Pakistan;383 169 hab.
+412;Taunggyi;Myanmar (Birmanie);381 639 hab.
+413;Najran;Arabie saoudite;379 836 hab.
+414;Phuket;Thaïlande;378 364 hab.
+415;Sinŭiju;Corée du Nord;375 759 hab.
+416;Salalah;Oman;374 582 hab.
+417;Dagupan;Philippines;372 756 hab.
+418;Monywa;Myanmar (Birmanie);372 095 hab.
+419;Dera Ismail Khan;Pakistan;362 231 hab.
+420;Tanchon;Corée du Nord;361 677 hab.
+421;Türkmenabat;Turkménistan;354 397 hab.
+422;Jhelum;Pakistan;354 202 hab.
+423;Khushab;Pakistan;352 830 hab.
+424;Samarra;Irak;348 700 hab.
+425;Kalaymyo (Kalay);Myanmar (Birmanie);348 573 hab.
+426;Yanbu;Arabie saoudite;345 850 hab.
+427;Iligan;Philippines;342 618 hab.
+428;Nowshera;Pakistan;338 650 hab.
+429;Olongapo;Philippines;337 811 hab.
+430;Butuan;Philippines;337 063 hab.
+431;Kaechon;Corée du Nord;334 154 hab.
+432;Huế;Viêt Nam;333 715 hab.
+433;Gandja;Azerbaïdjan;330 100 hab.
+434;Falloujah;Irak;326 471 hab.
+435;Mandi Bahauddin;Pakistan;326 400 hab.
+436;Bandar Seri Begawan;Brunei;324 246 hab.
+437;Kaesong;Corée du Nord;322 532 hab.
+438;Sariwon;Corée du Nord;321 825 hab.
+439;Jaffna;Sri Lanka;321 478 hab.
+440;Semeï;Kazakhstan;318 790 hab.
+441;Phakant (Hpakant);Myanmar (Birmanie);312 278 hab.
+442;Kunfuda;Arabie saoudite;311 133 hab.
+443;Istaravchan;Tadjikistan;310 000 hab.
+444;Meiktila;Myanmar (Birmanie);309 663 hab.
+445;Shikarpur;Pakistan;303 249 hab.
+446;Bintulu;Malaisie;300 994 hab.
+447;Miri;Malaisie;300 543 hab.
+448;Cotabato;Philippines;299 438 hab.
+449;Phyongsong;Corée du Nord;297 379 hab.
+450;Jacobabad;Pakistan;297 127 hab.
+451;Pendjikent;Tadjikistan;296 800 hab.
+452;Kanbalu (Kambalu);Myanmar (Birmanie);295 561 hab.
+453;Narsingdi;Bangladesh;292 838 hab.
+454;Tursunzoda;Tadjikistan;292 600 hab.
+455;Ibb;Yémen;292 428 hab.
+456;Pakokku;Myanmar (Birmanie);290 139 hab.
+457;Mawlamyine;Myanmar (Birmanie);289 388 hab.
+458;Chauk;Myanmar (Birmanie);287 958 hab.
+459;Pathein;Myanmar (Birmanie);287 071 hab.
+460;Haeju;Corée du Nord;285 786 hab.
+461;Mergui;Myanmar (Birmanie);284 489 hab.
+462;Chakwal;Pakistan;283 940 hab.
+463;Vũng Tàu;Viêt Nam;282 415 hab.
+464;Och;Kirghizistan;281 900 hab.
+465;Bhâratpur;Népal;280 502 hab.
+466;Dili;Timor oriental;277 279 hab.
+467;Khuzdar;Pakistan;277 136 hab.
+468;Deir ez-Zor;Syrie;272 929 hab.
+469;Karchi;Ouzbékistan;272 740 hab.
+470;Charsadda;Pakistan;270 175 hab.
+471;Boukhara;Ouzbékistan;268 195 hab.
+472;Noukous;Ouzbékistan;267 515 hab.
+473;Qurghonteppa;Tadjikistan;266 300 hab.
+474;Lucena;Philippines;266 248 hab.
+475;Sidon;Liban;265 934 hab.
+476;Lodhran;Pakistan;265 710 hab.
+477;Isfara;Tadjikistan;265 100 hab.
+478;Kanggye;Corée du Nord;263 483 hab.
+479;Ras el Khaïmah;Émirats arabes unis;263 217 hab.
+480;Taungû (Toungou);Myanmar (Birmanie);262 056 hab.
+481;Tando Allahyar;Pakistan;261 793 hab.
+482;Taungdwingyi;Myanmar (Birmanie);259 860 hab.
+483;Homalin;Myanmar (Birmanie);258 206 hab.
+484;Pyu;Myanmar (Birmanie);257 273 hab.
+485;Pyin U Lwin;Myanmar (Birmanie);255 508 hab.
+486;Quy Nhơn;Viêt Nam;255 463 hab.
+487;Puerto Princesa;Philippines;255 116 hab.
+488;Kandhkot;Pakistan;253 613 hab.
+489;Rạch Giá;Viêt Nam;252 585 hab.
+490;Prome (Pyay);Myanmar (Birmanie);251 643 hab.
+491;Kyauktaga;Myanmar (Birmanie);251 212 hab.
+492;Anju;Corée du Nord;251 087 hab.
+493;Jessore;Bangladesh;250 065 hab.
+494;Battambang;Cambodge;249 743 hab.
+495;Brahmanbaria;Bangladesh;248 942 hab.
+496;Sibu;Malaisie;247 995 hab.
+497;Tokchon;Corée du Nord;247 967 hab.
+498;Homs;Syrie;245 752 hab.
+499;Kostanaï;Kazakhstan;243 898 hab.
+500;Ābādān;Iran;242 730 hab.
