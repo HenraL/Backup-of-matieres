@@ -1,0 +1,54 @@
+zzzzzzz;z;30
+aaaaaaa;a;31
+bbbbbbb;b;32
+ccccccc;c;33
+ddddddd;d;34
+eeeeeee;e;35
+fffffff;f;36
+ggggggg;g;37
+hhhhhhh;h;38
+iiiiiii;i;39
+jjjjjjj;j;40
+kkkkkkk;k;41
+lllllll;l;42
+mmmmmmm;m;43
+nnnnnnn;n;44
+ooooooo;o;45
+ppppppp;p;46
+qqqqqqq;q;47
+rrrrrrr;r;48
+sssssss;s;49
+ttttttt;t;50
+uuuuuuu;u;51
+vvvvvvv;v;52
+wwwwwww;w;53
+xxxxxxx;x;54
+yyyyyyy;y;55
+zzzzzzz;z;56
+
+#[{'term': '1774-1792', 'definition': 'LOUIS XVI', 'index': '1'}, {'term': '1792-1804', 'definition': '1ere République', 'index': '2'}, {'term': '1804-1815', 'definition': '1er Empire', 'index': '3'}, {'term': '1815', 'definition': '100 jours de Napoléon 1er', 'index': '4'}, {'term': '1814-1830', 'definition': 'Restauration', 'index': '5'}, {'term': '1830-1848', 'definition': 'Monarchie de Juillet', 'index': '6'}, {'term': '1850', 'definition': '2e République', 'index': '7'}, {'term': '1852-1870', 'definition': 'Second Empire', 'index': '8'}, {'term': '1870-1875', 'definition': 'Tentative de Restauration', 'index': '9'}, {'term': '1870-1940', 'definition': '3eme République', 'index': '10'}, {'term': '1900-1914', 'definition': 'La Belle Epoque', 'index': '11'}, {'term': '1914-1918', 'definition': '1ere Guerre Mondiale', 'index': '12'}, {'term': '1918-1932', 'definition': 'Les années folles', 'index': '13'}, {'term': '1932-1936', 'definition': 'Crise parlementaire', 'index': '14'}, {'term': '1936-1940', 'definition': 'Front Populaire', 'index': '15'}, {'term': '1939-1945', 'definition': '2eme Guerre Mondiale', 'index': '16'}, {'term': '1940-1944', 'definition': 'Etat Français Pétain', 'index': '17'}, {'term': '1944-1946', 'definition': 'GPRF De Gaulle', 'index': '18'}, {'term': '1946-1958', 'definition': '4e République', 'index': '19'}, {'term': 'Depuis 1958', 'definition': '5e République', 'index': '20'}, {'term': '1958-1969', 'definition': 'Président Charles de Gaulle', 'index': '21'}, {'term': '1969-1974', 'definition': 'Président Georges Pompidou', 'index': '22'}, {'term': '1974-1981', 'definition': "Président Giscard d'Estaing", 'index': '23'}, {'term': '1981-1995', 'definition': 'Président François Mitterrand', 'index': '24'}, {'term': '1995-2002', 'definition': 'Président Jacques Chirac', 'index': '25'}, {'term': 'st', 'definition': 'st', 'index': '26'}]
+1774-1792;LOUIS XVI;1
+1792-1804;1ere République;2
+1804-1815;1er Empire;3
+1815;100 jours de Napoléon 1er;4
+1814-1830;Restauration;5
+1830-1848;Monarchie de Juillet;6
+1850;2e République;7
+1852-1870;Second Empire;8
+1870-1875;Tentative de Restauration;9
+1870-1940;3eme République;10
+1900-1914;La Belle Epoque;11
+1914-1918;1ere Guerre Mondiale;12
+1918-1932;Les années folles;13
+1932-1936;Crise parlementaire;14
+1936-1940;Front Populaire;15
+1939-1945;2eme Guerre Mondiale;16
+1940-1944;Etat Français Pétain;17
+1944-1946;GPRF De Gaulle;18
+1946-1958;4e République;19
+Depuis 1958;5e République;20
+1958-1969;Président Charles de Gaulle;21
+1969-1974;Président Georges Pompidou;22
+1974-1981;Président Giscard d'Estaing;23
+1981-1995;Président François Mitterrand;24
+1995-2002;Président Jacques Chirac;25
