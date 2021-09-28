@@ -1,4 +1,9 @@
-import requests
+try:
+        import requests
+except:
+        import os
+        os.system("py -m pip install requests")
+        import requests
 from time import sleep
 o=0
 while o==0:
