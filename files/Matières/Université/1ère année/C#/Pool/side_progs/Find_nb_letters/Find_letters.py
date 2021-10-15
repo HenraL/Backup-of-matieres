@@ -1,10 +1,10 @@
 #!/usr/bin/env python3 
-print("")
 def open_file(file): #equivalent to the initialisation of the elements that will need to be searched by the program.
     f=open(file,"r")
     content=f.read()
     f.close()
     return content # same
+
 def my_putchar(word): #<=> var my_putchar(char word) {
     print(word,end="") # <=> my_putchar(1,word,1);
 #                        <=> }
@@ -27,6 +27,7 @@ def count_wished_charater(file_content,character): #char count_wished_charater(c
             nb_times+=1 #same
         i+=1 # i++
     return nb_times
+    
 def start_search(ch_list,charaters): # <=> char start_search(chr ch_list, chr charaters)
     ch_length = len(charaters) # <=> int ch_length = my_str_len(characters or ch_list);
     nb_ch_index = 0 # <=> setting the index for the while
