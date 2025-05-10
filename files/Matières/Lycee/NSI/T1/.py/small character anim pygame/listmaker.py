@@ -1,74 +1,75 @@
-def pause():pause=input("Press enter to continue")
-def append(namee,string):
-    f=open("result_{}.txt".format(namee),"a")
-    f.write("{}".format(string))
-    f.close()
+def pause():
+    input("Press enter to continue")
+
+
+def append(namee, string):
+    # Use context manager for safer file handling
+    with open(f"result_{namee}.txt", "a") as f:
+        f.write(f"{string}")
+
+
 def clean(namee):
-    f=open("result_{}.txt".format(namee),"w")
-    f.close()
-def read(file,variable):
+    # Clean the file by opening in write mode, this will overwrite the file
+    with open(f"result_{namee}.txt", "w"):
+        pass  # Just open and close to clear the content
+
+
+def read(file, variable):
     try:
-        f=open("{}".format(file), "r")
-        variable=f.read()
-        print(variable)
-        f.close()
+        # Use context manager to safely read the file
+        with open(file, "r") as f:
+            variable = f.read()
+            print(variable)
         return variable
-    except:
-        print("Sorry, couldn't find the file {}".format(fileOriginName))
-        print("ending program")
+    except FileNotFoundError:
+        print(f"Sorry, couldn't find the file {file}")
+        print("Ending program")
         pause()
-w=""" """
-namee=""
-variable=""
-list=[]
-namegiven=False
-liiste=[]
+        exit(1)  # Exit the program if file is not found
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        pause()
+        exit(1)
+
+
+w = """ """
+namee = ""
+variable = ""
+list = []
+namegiven = False
+liiste = []
 # path="img/right_character/img"
-path="img/The unknown thing/exported"
-image=""
-fileOriginName=input("Please specify the name of the file to read: ")
-read(fileOriginName,variable)
-try:
-    f=open("{}".format(fileOriginName), "r")
-    variable=f.read()
-    print(variable)
-    f.close()
-    imageName=input("name the variable that will contain the image: ")
-    for file in variable:
-        if file!='\n':
-            # print(file)
-            image+=file
-            # print("image={}".format(image))
-        else:
-            list.append("{}/{}".format(path,image))
-            if namegiven==False:
-                namee=image
-                namegiven=True
-            image=""
-            # print("list={}\npath={}\nimage={}".format(list,path,image))
-        #pause=input("Press enter to continue")
-    #for i in range(len(list)):
+path = "img/The unknown thing/exported"
+image = ""
 
-    # print("namee={}".format(namee))
+# Get the file name to read
+fileOriginName = input("Please specify the name of the file to read: ")
+variable = read(fileOriginName, variable)
 
-    clean("{}".format(namee))
-    append(namee,w)
-    finalList=[]
-    finalListPure=[]
-    for i in range(len(list)):
-        finalList.append("{}{}=\"{}\"".format(imageName,i+1,list[i]))
-        finalList.append("\"{}\"".format(list[i]))
-        # finalListPure.append("{}{}".format(imageName,i+1))
-        append(namee,"{}{}=\"{}\"\n".format(imageName,i+1,list[i]))
+imageName = input("Name the variable that will contain the image: ")
+for file in variable:
+    if file != '\n':
+        image += file
+    else:
+        list.append(f"{path}/{image}")
+        if not namegiven:
+            namee = image
+            namegiven = True
+        image = ""
 
-    append(namee,"{}={}".format(imageName,finalList))
-    print(w)
-    print("{}={}".format(imageName,finalList))
-    print("Work finished, find the result in the file : result_{}.txt".format(namee))
-    print("Program created by Henry Letellier")
-    pause()
-except:
-    print("Sorry, couldn't find the file {}".format(fileOriginName))
-    print("ending program")
-    pause()
+clean(namee)
+append(namee, w)
+finalList = []
+finalListPure = []
+for index, item in enumerate(list):
+    finalList.append(f"{imageName}{index+1}=\"{item}\"")
+    finalList.append(f"\"{item}\"")
+    # finalListPure.append(f"{imageName}{index+1}")
+    append(namee, f"{imageName}{index+1}=\"{item}\"\n")
 
+append(namee, f"{imageName}={finalList}")
+print(w)
+print(f"{imageName}={finalList}")
+print(f"Work finished, find the result in the file : result_{namee}.txt")
+print("(c) Program created by Henry Letellier")
+pause()
